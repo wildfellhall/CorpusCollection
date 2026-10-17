@@ -1,5 +1,7 @@
 """
 Work in progress
+
+Note: as I continue to collate this corpus, I will attempt to blend satirical essays/shorter works with satirical novels.
 """
 sources = [
   "https://www.gutenberg.org/files/1080/1080-0.txt", # A Modest Proposal by Jonathan Swift
@@ -18,4 +20,5 @@ sources = [
   "https://www.gutenberg.org/files/2675/2675-0.txt", # Burlesques by William Makepeace Thackeray
   "https://www.gutenberg.org/files/2731/2731-0.txt", # The Christmas Books of Mr. M.A. Titmarsh by William Makepeace Thackeray
   "https://www.gutenberg.org/files/2844/2844-0.txt", # The Fatal Boots by William Makepeace Thackeray
+  
 ]
