@@ -1,7 +1,7 @@
 """
 Not yet expanded beyond essentials. 
 """
-urls = [
+sources = [
     # --- ANCIENT ---
     "https://www.gutenberg.org/files/1497/1497-0.txt",   # Plato: The Republic
     "https://www.gutenberg.org/files/1600/1600-0.txt",   # Plato: Symposium
