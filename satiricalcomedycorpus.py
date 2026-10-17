@@ -13,5 +13,9 @@ sources = [
   "https://www.gutenberg.org/files/883/883-0.txt",   # Our Mutual Friend by Charles Dickens
   "https://www.gutenberg.org/files/1906/1906-0.txt", # Erewhon; Or, Over the Range by Samuel Butler
   "https://www.gutenberg.org/files/4558/4558-0.txt", # Barry Lyndon by William Makepeace Thackeray
-  
+  "https://www.gutenberg.org/files/897/897-0.txt",   # The Rose and the Ring by William Makepeace Thackeray
+  "https://www.gutenberg.org/files/2686/2686-0.txt", # The Book of Snobs by William Makepeace Thackeray
+  "https://www.gutenberg.org/files/2675/2675-0.txt", # Burlesques by William Makepeace Thackeray
+  "https://www.gutenberg.org/files/2731/2731-0.txt", # The Christmas Books of Mr. M.A. Titmarsh by William Makepeace Thackeray
+  "https://www.gutenberg.org/files/2844/2844-0.txt", # The Fatal Boots by William Makepeace Thackeray
 ]
