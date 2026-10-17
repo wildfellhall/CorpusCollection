@@ -31,6 +31,15 @@ sources = [
   "https://www.gutenberg.org/files/19942/19942-0.txt", # Candide by Voltaire
   "https://www.gutenberg.org/files/1081/1081-0.txt",   # Dead Souls by Nikolai Vasilevich Gogol
   "https://www.gutenberg.org/files/45858/45858-0.txt", # Lucian's True History by of Samosata Lucian
+  "https://www.gutenberg.org/files/10430/10430-0.txt", # Trips to the Moon by of Samosata Lucian
+  "https://www.gutenberg.org/files/968/968-0.txt",     # Martin Chuzzlewit by Charles Dickens
+  "https://www.gutenberg.org/files/652/652-0.txt",     # Rasselas, Prince of Abyssinia by Samuel Johnson
+  "https://www.gutenberg.org/files/44520/44520-0.txt", # Pamphlets and Parodies on Political Subjects by William Hone
+  "https://www.gutenberg.org/files/5231/5231-0.txt",   # The Way We Live Now by Anthony Trollope
+  "https://www.gutenberg.org/files/619/619-0.txt",     # The Warden by Anthony Trollope
+  "https://www.gutenberg.org/files/7381/7381-0.txt",   # The Eustace Diamonds by Anthony Trollope
+  "https://www.gutenberg.org/files/27533/27533-0.txt", # The Struggles of Brown, Jones, and Robinson by Anthony Trollope
+  
   
   
 ]
