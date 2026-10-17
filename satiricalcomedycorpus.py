@@ -11,4 +11,7 @@ sources = [
   "https://www.gutenberg.org/files/599/599-0.txt",   # Vanity Fair by William Makepeace Thackeray
   "https://www.gutenberg.org/files/3178/3178-0.txt", # The Gilded Age: A Tale of Today by Mark Twain and Charles Dudley Warner
   "https://www.gutenberg.org/files/883/883-0.txt",   # Our Mutual Friend by Charles Dickens
+  "https://www.gutenberg.org/files/1906/1906-0.txt", # Erewhon; Or, Over the Range by Samuel Butler
+  "https://www.gutenberg.org/files/4558/4558-0.txt", # Barry Lyndon by William Makepeace Thackeray
+  
 ]
