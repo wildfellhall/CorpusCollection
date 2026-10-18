@@ -39,6 +39,12 @@ sources = [
   "https://www.gutenberg.org/files/619/619-0.txt",     # The Warden by Anthony Trollope
   "https://www.gutenberg.org/files/7381/7381-0.txt",   # The Eustace Diamonds by Anthony Trollope
   "https://www.gutenberg.org/files/27533/27533-0.txt", # The Struggles of Brown, Jones, and Robinson by Anthony Trollope
+  "https://www.gutenberg.org/files/21816/21816-0.txt", # The Confidence-Man: His Masquerade by Herman Melville
+  "https://www.gutenberg.org/files/6053/6053-0.txt",   # Evelina, Or, the History of a Young Lady's Entrance into the World by Fanny Burney
+  "https://www.gutenberg.org/files/1051/1051-0.txt",   # Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh by Thomas Carlyle
+  "https://www.gutenberg.org/files/3190/3190-0.txt",   # 1601: Conversation as it was by the Social Fireside in the Time of the Tudors
+  "https://www.gutenberg.org/files/3172/3172-0.txt",   # Fenimore Cooper's Literary Offences by Mark Twain
+  "https://www.gutenberg.org/files/21822/21822-0.txt", # A Lecture On Heads by George Alexander Stevens
   
   
   
