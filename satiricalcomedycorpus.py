@@ -63,6 +63,10 @@ sources = [
   "https://www.gutenberg.org/files/46621/46621-0.txt", # Sheppard Lee, Written by Himself. Vol. 1 (of 2) by Robert Montgomery Bird
   "https://www.gutenberg.org/files/46622/46622-0.txt", # Sheppard Lee, Written by Himself. Vol. 2 (of 2) by Robert Montgomery Bird
   "https://www.gutenberg.org/files/12793/12793-0.txt", # Cobwebs from an Empty Skull by Ambrose Bierce
-  
-  
+  "https://www.gutenberg.org/files/4793/4793-0.txt",   # The Fiend's Delight by Ambrose Bierce
+  "https://www.gutenberg.org/files/55035/55035-0.txt", # The Marvellous Adventures and Rare Conceits of Master Tyll Owlglass by Mackenzie et al.
+  "https://www.gutenberg.org/files/67888/67888-0.txt", # Anticipation by Richard Tickell
+  "https://www.gutenberg.org/files/39726/39726-0.txt", # The Rolliad, in Two Parts by Tickell, Ellis, Laurence, and Richardson
+  "https://www.gutenberg.org/files/46467/46467-0.txt", # The Remarkable History of Sir Thomas Upmore, bart., M.P., formerly known as…
+  "https://www.gutenberg.org/files/3191/3191-0.txt",   # Goldsmith's Friend Abroad Again by Mark Twain
 ]
