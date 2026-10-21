@@ -45,6 +45,17 @@ sources = [
   "https://www.gutenberg.org/files/3190/3190-0.txt",   # 1601: Conversation as it was by the Social Fireside in the Time of the Tudors
   "https://www.gutenberg.org/files/3172/3172-0.txt",   # Fenimore Cooper's Literary Offences by Mark Twain
   "https://www.gutenberg.org/files/21822/21822-0.txt", # A Lecture On Heads by George Alexander Stevens
+  "https://www.gutenberg.org/files/10095/10095-0.txt", # The Twilight of the Gods, and Other Tales by Richard Garnett
+  "https://www.gutenberg.org/files/6758/6758-0.txt",   # The Adventures of Sir Launcelot Greaves by T. Smollett
+  "https://www.gutenberg.org/files/6761/6761-0.txt",   # The Adventures of Ferdinand Count Fathom — Complete by T. Smollett
+  "https://www.gutenberg.org/files/4092/4092-0.txt",   # The Monikins by James Fenimore Cooper
+  "https://www.gutenberg.org/files/2329/2329-0.txt",   # Autobiography of a Pocket-Handkerchief by James Fenimore Cooper
+  "https://www.gutenberg.org/files/2615/2615-0.txt",   # Discourses on Satire and on Epic Poetry by John Dryden
+  "https://www.gutenberg.org/files/1473/1473-0.txt",   # The Absentee by Maria Edgeworth
+  "https://www.gutenberg.org/files/21337/21337-0.txt", # 'That Very Mab' by May Kendall and Andrew Lang
+  "https://www.gutenberg.org/files/38411/38411-0.txt", # Froth: A Novel by Armando Palacio Valdés
+  "https://www.gutenberg.org/files/9909/9909-0.txt",   # Nightmare Abbey by Thomas Love Peacock
+  "https://www.gutenberg.org/files/2075/2075-0.txt", # Crotchet Castle by Thomas Love Peacock
   
   
   
