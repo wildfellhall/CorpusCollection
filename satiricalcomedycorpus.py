@@ -55,8 +55,14 @@ sources = [
   "https://www.gutenberg.org/files/21337/21337-0.txt", # 'That Very Mab' by May Kendall and Andrew Lang
   "https://www.gutenberg.org/files/38411/38411-0.txt", # Froth: A Novel by Armando Palacio Valdés
   "https://www.gutenberg.org/files/9909/9909-0.txt",   # Nightmare Abbey by Thomas Love Peacock
-  "https://www.gutenberg.org/files/2075/2075-0.txt", # Crotchet Castle by Thomas Love Peacock
-  
+  "https://www.gutenberg.org/files/2075/2075-0.txt",   # Crotchet Castle by Thomas Love Peacock
+  "https://www.gutenberg.org/files/1079/1079-0.txt",   # The life and opinions of Tristram Shandy, gentleman by Laurence Sterne
+  "https://www.gutenberg.org/files/804/804-0.txt",     # A Sentimental Journey Through France and Italy by Laurence Sterne
+  "https://www.gutenberg.org/files/20257/20257-0.txt", # A Political Romance by Laurence Sterne
+  "https://www.gutenberg.org/files/58070/58070-0.txt", # Home Life in Russia, Volumes 1 and 2 by Nikolai Vasilevich Gogol
+  "https://www.gutenberg.org/files/46621/46621-0.txt", # Sheppard Lee, Written by Himself. Vol. 1 (of 2) by Robert Montgomery Bird
+  "https://www.gutenberg.org/files/46622/46622-0.txt", # Sheppard Lee, Written by Himself. Vol. 2 (of 2) by Robert Montgomery Bird
+  "https://www.gutenberg.org/files/12793/12793-0.txt", # Cobwebs from an Empty Skull by Ambrose Bierce
   
   
 ]
