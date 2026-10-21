@@ -69,4 +69,10 @@ sources = [
   "https://www.gutenberg.org/files/39726/39726-0.txt", # The Rolliad, in Two Parts by Tickell, Ellis, Laurence, and Richardson
   "https://www.gutenberg.org/files/46467/46467-0.txt", # The Remarkable History of Sir Thomas Upmore, bart., M.P., formerly known as…
   "https://www.gutenberg.org/files/3191/3191-0.txt",   # Goldsmith's Friend Abroad Again by Mark Twain
+  "https://www.gutenberg.org/files/19484/19484-0.txt", # Editorial Wild Oats by Mark Twain
+  "https://www.gutenberg.org/files/60900/60900-0.txt", # Merry Tales by Mark Twain
+  "https://www.gutenberg.org/files/30343/30343-0.txt", # A discourse concerning ridicule and irony in writing (1729) by Anthony Collins
+  "https://www.gutenberg.org/files/41950/41950-0.txt", # The Visions of Quevedo by Francisco de Quevedo
+  "https://www.gutenberg.org/files/46125/46125-0.txt", # Pablo de Segovia, the Spanish Sharper by Francisco de Quevedo
+  "https://www.gutenberg.org/files/75943/75943-0.txt", # Melincourt : or, Sir Oran Haut-Ton by Thomas Love Peacock
 ]
