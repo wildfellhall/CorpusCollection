@@ -104,4 +104,6 @@ sources = [
   "https://www.gutenberg.org/files/78245/78245-0.txt", # The Mudfog papers, etc. by Charles Dickens
   "https://www.gutenberg.org/files/69793/69793-0.txt", # Caught napping by Anonymous
   "https://www.gutenberg.org/files/76013/76013-0.txt", # Honesty the best policy : or, The history of Roger by Anonymous
+  "https://www.gutenberg.org/files/996/996-0.txt",     # Don Quixote by Miguel de Cervantes Saavedra
+  "https://www.gutenberg.org/files/1200/1200-0.txt",   # Gargantua and Pantagruel by François Rabelais
 ]
