@@ -75,4 +75,18 @@ sources = [
   "https://www.gutenberg.org/files/41950/41950-0.txt", # The Visions of Quevedo by Francisco de Quevedo
   "https://www.gutenberg.org/files/46125/46125-0.txt", # Pablo de Segovia, the Spanish Sharper by Francisco de Quevedo
   "https://www.gutenberg.org/files/75943/75943-0.txt", # Melincourt : or, Sir Oran Haut-Ton by Thomas Love Peacock
+  "https://www.gutenberg.org/files/47427/47427-0.txt", # The Dance of Death by William Herman
+  "https://www.gutenberg.org/files/21514/21514-0.txt", # Gryll Grange by Thomas Love Peacock
+  "https://www.gutenberg.org/files/12803/12803-0.txt", # Headlong Hall by Thomas Love Peacock
+  "https://www.gutenberg.org/files/7089/7089-0.txt",   # The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon
+  "https://www.gutenberg.org/files/6453/6453-0.txt",   # The Potiphar Papers by George William Curtis
+  "https://www.gutenberg.org/files/66123/66123-0.txt", # Pictures of the Socialistic Future by Eugen Richter
+  "https://www.gutenberg.org/files/73620/73620-0.txt", # The island : or, an adventure of a person of quality by Richard Whiteing
+  "https://www.gutenberg.org/files/23390/23390-0.txt", # The True Life of Betty Ireland by Anonymous
+  "https://www.gutenberg.org/files/2164/2164-0.txt",   # The Lumley Autograph by Susan Fenimore Cooper
+  "https://www.gutenberg.org/files/77997/77997-0.txt", # Uncle Tweazy and his quizzical neighbours, vol. 1 of 3 : a comi-satiric novel
+  "https://www.gutenberg.org/files/77028/77028-0.txt", # Uncle Tweazy and his quizzical neighbours, vol. 2 of 3 : a comi-satiric novel
+  "https://www.gutenberg.org/files/26481/26481-0.txt", # The Romance of Mathematics by P. H. Ditchfield
+  "https://www.gutenberg.org/files/623/623-0.txt",     # The Battle of the Books, and other Short Pieces by Jonathan Swift
+  
 ]
