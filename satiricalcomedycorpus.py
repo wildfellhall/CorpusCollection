@@ -98,6 +98,11 @@ sources = [
   "https://www.gutenberg.org/files/31155/31155-0.txt", # The Academy Keeper by Anonymous
   "https://www.gutenberg.org/files/70039/70039-0.txt", # First harvests : An episode in the life of Mrs. Levison Gower : A satire…
   "https://www.gutenberg.org/files/158/158-0.txt",     # Emma by Jane Austen
+  "https://www.gutenberg.org/files/1342/1342-0.txt",   # Pride and Prejudice by Jane Austen
+  "https://www.gutenberg.org/files/75845/75845-0.txt", # The genuine tryal of Dr. Nosmoth, a physician in Pekin : For the murder of the…
+  "https://www.gutenberg.org/files/75432/75432-0.txt", # An account of the giants lately discovered : In a letter to a friend in the…
+  "https://www.gutenberg.org/files/78245/78245-0.txt", # The Mudfog papers, etc. by Charles Dickens
+  
   
   
 ]
