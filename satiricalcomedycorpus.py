@@ -88,5 +88,16 @@ sources = [
   "https://www.gutenberg.org/files/77028/77028-0.txt", # Uncle Tweazy and his quizzical neighbours, vol. 2 of 3 : a comi-satiric novel
   "https://www.gutenberg.org/files/26481/26481-0.txt", # The Romance of Mathematics by P. H. Ditchfield
   "https://www.gutenberg.org/files/623/623-0.txt",     # The Battle of the Books, and other Short Pieces by Jonathan Swift
+  "https://www.gutenberg.org/files/5225/5225-0.txt",   # The Satyricon — Complete by Petronius Arbiter
+  "https://www.gutenberg.org/files/581/581-0.txt",     # Ginx's Baby: His Birth and Other Misfortunes; a Satire by Edward Jenkins
+  "https://www.gutenberg.org/files/28105/28105-0.txt", # A Learned Dissertation on Dumpling (1726) by Henry Carey
+  "https://www.gutenberg.org/files/39119/39119-0.txt", # Satires and Profanities by James Thomson and G. W. Foote
+  "https://www.gutenberg.org/files/51017/51017-0.txt", # Anecdotes of the Learned Pig by James Boswell and Hester Lynch Piozzi
+  "https://www.gutenberg.org/files/68133/68133-0.txt", # The history of the proceedings in the case of Margaret, commonly called Peg,…
+  "https://www.gutenberg.org/files/29189/29189-0.txt", # A Letter From a Clergyman to his Friend, by Anonymous
+  "https://www.gutenberg.org/files/31155/31155-0.txt", # The Academy Keeper by Anonymous
+  "https://www.gutenberg.org/files/70039/70039-0.txt", # First harvests : An episode in the life of Mrs. Levison Gower : A satire…
+  "https://www.gutenberg.org/files/158/158-0.txt",     # Emma by Jane Austen
+  
   
 ]
