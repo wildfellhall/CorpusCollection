@@ -102,7 +102,6 @@ sources = [
   "https://www.gutenberg.org/files/75845/75845-0.txt", # The genuine tryal of Dr. Nosmoth, a physician in Pekin : For the murder of the…
   "https://www.gutenberg.org/files/75432/75432-0.txt", # An account of the giants lately discovered : In a letter to a friend in the…
   "https://www.gutenberg.org/files/78245/78245-0.txt", # The Mudfog papers, etc. by Charles Dickens
-  
-  
-  
+  "https://www.gutenberg.org/files/69793/69793-0.txt", # Caught napping by Anonymous
+  "https://www.gutenberg.org/files/76013/76013-0.txt", # Honesty the best policy : or, The history of Roger by Anonymous
 ]
