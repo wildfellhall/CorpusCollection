@@ -248,5 +248,54 @@ sources = [
     "https://www.gutenberg.org/files/11521/11521-0.txt", #A Beleaguered City by Mrs. Oliphant
     "https://www.gutenberg.org/files/42013/42013-0.txt", #Salem Chapel, v. 1/2 by Mrs. Oliphant
     "https://www.gutenberg.org/files/54108/54108-0.txt", #Squire Arden; volume 1 of 3 by Mrs. Oliphant
-    
+    "https://www.gutenberg.org/files/47619/47619-0.txt", #At His Gates: A Novel. Vol. 2 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/45816/45816-0.txt", #The House on the Moor, v. 1/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63902/63902-0.txt", #The Duke's Daughter; and, The Fugitives; vol. 2/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/28637/28637-0.txt", #The Marriage of Elinor by Mrs. Oliphant
+    "https://www.gutenberg.org/files/55122/55122-0.txt", #The Athelings; or, the Three Gifts. Complete by Mrs. Oliphant
+    "https://www.gutenberg.org/files/51265/51265-0.txt", #The Last of the Mortimers: A Story in Two Voices by Mrs. Oliphant
+    "https://www.gutenberg.org/files/53744/53744-0.txt", #Sir Robert's Fortune: A Novel by Mrs. Oliphant
+    "https://www.gutenberg.org/files/71919/71919-0.txt", #Christian Melville by Mrs. Oliphant
+    "https://www.gutenberg.org/files/53583/53583-0.txt", #Ombra by Mrs. Oliphant
+    "https://www.gutenberg.org/files/55827/55827-0.txt", #Who Was Lost and Is Found: A Novel by Mrs. Oliphant
+    "https://www.gutenberg.org/files/45818/45818-0.txt", #The House on the Moor, v. 3/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/44080/44080-0.txt", #Madonna Mary by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47555/47555-0.txt", #The Wizard's Son, Vol. 1 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/54122/54122-0.txt", #Squire Arden; volume 2 of 3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/55155/55155-0.txt", #Old Mr. Tredgold by Mrs. Oliphant
+    "https://www.gutenberg.org/files/52575/52575-0.txt", #The Cuckoo in the Nest, v. 1/2 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47591/47591-0.txt", #The Ladies Lindores, Vol. 1 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/48198/48198-0.txt", #Hester: A Story of Contemporary Life, Volume 2 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/52060/52060-0.txt", #The Sorceress (complete) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63562/63562-0.txt", #Harry Joscelyn; vol. 3 of 3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65329/65329-0.txt", #Mrs. Arthur; vol. 2 of 3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65153/65153-0.txt", #Within the Precincts by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65328/65328-0.txt", #Mrs. Arthur; vol. 1 of 3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/72221/72221-0.txt", #Carità by Mrs. Oliphant
+    "https://www.gutenberg.org/files/58462/58462-0.txt", #The Story of Valentine and His Brother by Mrs. Oliphant
+    "https://www.gutenberg.org/files/49597/49597-0.txt", #It was a Lover and His Lass by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47620/47620-0.txt", #At His Gates: A Novel. Vol. 3 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47557/47557-0.txt", #The Wizard's Son, Vol. 3 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/64540/64540-0.txt", #The Greatest Heiress in England by Mrs. Oliphant
+    "https://www.gutenberg.org/files/61916/61916-0.txt", #Effie Ogilvie: the story of a young life (Complete) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/53182/53182-0.txt", #The Sorceress, v. 3 of 3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/52388/52388-0.txt", #Whiteladies by Mrs. Oliphant
+    "https://www.gutenberg.org/files/10050/10050-0.txt", #A Little Pilgrim: Stories of the Seen and the Unseen by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65226/65226-0.txt", #John, A Love Story; vol. 1 of 2 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/29890/29890-0.txt", #The Doctor's Family by Mrs. Oliphant
+    "https://www.gutenberg.org/files/61954/61954-0.txt", #The Lady's Walk by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63142/63142-0.txt", #Harry Joscelyn; vol. 1 of 3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/64778/64778-0.txt", #He that will not when he may; vol. II by Mrs. Oliphant
+    "https://www.gutenberg.org/files/59055/59055-0.txt", #The Heir Presumptive and the Heir Apparent by Mrs. Oliphant
+    "https://www.gutenberg.org/files/54841/54841-0.txt", #Brownlows: A Novel by Mrs. Oliphant
+    "https://www.gutenberg.org/files/59759/59759-0.txt", #The Executor by Mrs. Oliphant
+    "https://www.gutenberg.org/files/71671/71671-0.txt", #Innocent : a tale of modern life by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65631/65631-0.txt", #May; vol. I by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65458/65458-0.txt", #The Primrose Path: A Chapter in the Annals of the Kingdom of Fife by Mrs. Oliphant
+    "https://www.gutenberg.org/files/62466/62466-0.txt", #The Prodigals and Their Inheritance; Complete by Mrs. Oliphant
+    "https://www.gutenberg.org/files/52756/52756-0.txt", #The Cuckoo in the Nest, v. 2/2 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/61445/61445-0.txt", #A House Divided Against Itself (Complete) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/58710/58710-0.txt", #The Land of Darkness by Mrs. Oliphant
+    "https://www.gutenberg.org/files/53645/53645-0.txt", #Heart and Cross by Mrs. Oliphant
+    "https://www.gutenberg.org/files/66376/66376-0.txt"  #Young Musgrave by Mrs. Oliphant
 ]
