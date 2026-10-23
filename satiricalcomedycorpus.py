@@ -131,6 +131,13 @@ sources = [
   "https://www.gutenberg.org/files/3154/3154-0.txt",   # The Surprising Adventures of Baron Munchausen by Rudolf Erich Raspe
   "https://www.gutenberg.org/files/13260/13260-0.txt", # Droll Stories — Complete by Honoré de Balzac
   "https://www.gutenberg.org/files/16205/16205-0.txt", # The Physiology of Marriage, Complete by Honoré de Balzac
-=
+  "https://www.gutenberg.org/files/16146/16146-0.txt", # Petty Troubles of Married Life, Complete by Honoré de Balzac
+  "https://www.gutenberg.org/files/1230/1230-0.txt",   # Pierre Grassou by Honoré de Balzac
+  "https://www.gutenberg.org/files/1294/1294-0.txt",   # The Firm of Nucingen by Honoré de Balzac
+  "https://www.gutenberg.org/files/1242/1242-0.txt",   # Unconscious Comedians by Honoré de Balzac
+  "https://www.gutenberg.org/files/26853/26853-0.txt", # Vice Versa; or, A Lesson to Fathers by F. Anstey
+  "https://www.gutenberg.org/files/27284/27284-0.txt", # The Talking Horse, and Other Tales by F. Anstey
+  "https://www.gutenberg.org/files/25129/25129-0.txt", # Baboo Jabberjee, B.A. by F. Anstey
+  "https://www.gutenberg.org/files/24197/24197-0.txt", # The Tinted Venus: A Farcical Romance by F. Anstey
   
 ]
