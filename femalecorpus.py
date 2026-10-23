@@ -190,4 +190,21 @@ sources = [
     "https://www.gutenberg.org/files/55012/55012-0.txt", #Dred: A Tale of the Great Dismal Swamp by Harriet Beecher Stowe
     "https://www.gutenberg.org/files/47874/47874-0.txt", #My Wife and I; Or, Harry Henderson's History by Harriet Beecher Stowe
     "https://www.gutenberg.org/files/31522/31522-0.txt", #The Pearl of Orr's Island: A Story of the Coast of Maine by Harriet Beecher Stowe
+    "https://www.gutenberg.org/files/47958/47958-0.txt", #The Minister's Wooing by Harriet Beecher Stowe
+    "https://www.gutenberg.org/files/43076/43076-0.txt", #Agnes of Sorrento by Harriet Beecher Stowe
+    "https://www.gutenberg.org/files/48603/48603-0.txt", #We and Our Neighbors; or, The Records of an Unfashionable Street by Stowe
+    "https://www.gutenberg.org/files/45415/45415-0.txt", #The Chimney-Corner by Harriet Beecher Stowe
+    "https://www.gutenberg.org/files/67383/67383-0.txt", #Little Foxes by Harriet Beecher Stowe
+    "https://www.gutenberg.org/files/48190/48190-0.txt", #Poganuc People: Their Loves and Lives by Harriet Beecher Stowe
+    "https://www.gutenberg.org/files/5843/5843-0.txt",   #The Young Step-Mother; Or, A Chronicle of Mistakes by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/6331/6331-0.txt",   #The Pillars of the House; Or, Under Wode, Under Rode, Vol. 1 (of 2) by Yonge
+    "https://www.gutenberg.org/files/5124/5124-0.txt",   #Henrietta's Wish; Or, Domineering by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/44721/44721-0.txt", #The Pillars of the House; Or, Under Wode, Under Rode, Vol. 2 (of 2) by Yonge
+    "https://www.gutenberg.org/files/5274/5274-0.txt",   #The Chaplet of Pearls by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4235/4235-0.txt",   #Dynevor Terrace; Or, The Clue of Life — Volume 1 by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/3744/3744-0.txt",   #The Trial; Or, More Links of the Daisy Chain by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/5708/5708-0.txt",   #Stray Pearls: Memoirs of Margaret De Ribaumont, Viscountess of Bellaise by Yonge
+    "https://www.gutenberg.org/files/32200/32200-0.txt", #Sowing and Sewing: A Sexagesima Story by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/5251/5251-0.txt",   #The Long Vacation by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/6007/6007-0.txt",   #The Two Sides of the Shield by Charlotte M. Yonge
 ]
