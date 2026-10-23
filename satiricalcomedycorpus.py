@@ -108,4 +108,29 @@ sources = [
   "https://www.gutenberg.org/files/76013/76013-0.txt", # Honesty the best policy : or, The history of Roger by Anonymous
   "https://www.gutenberg.org/files/996/996-0.txt",     # Don Quixote by Miguel de Cervantes Saavedra
   "https://www.gutenberg.org/files/1200/1200-0.txt",   # Gargantua and Pantagruel by François Rabelais
+
+  # Beginning of more comedy-focused and less explicitly satirical works
+  "https://www.gutenberg.org/files/74/74-0.txt",       # The Adventures of Tom Sawyer, Complete by Mark Twain
+  "https://www.gutenberg.org/files/76/76-0.txt",       # Adventures of Huckleberry Finn by Mark Twain
+  "https://www.gutenberg.org/files/1213/1213-0.txt",   # The Man That Corrupted Hadleyburg by Mark Twain
+  "https://www.gutenberg.org/files/3179/3179-0.txt",   # The American Claimant by Mark Twain
+  "https://www.gutenberg.org/files/3175/3175-0.txt",   # Mark Twain's Burlesque Autobiography by Mark Twain
+  "https://www.gutenberg.org/files/3183/3183-0.txt",   # The Facts Concerning the Recent Carnival of Crime in Connecticut by Mark Twain
+  "https://www.gutenberg.org/files/3192/3192-0.txt",   # The Curious Republic of Gondour, and Other Whimsical Sketches by Mark Twain
+  "https://www.gutenberg.org/files/119/119-0.txt",     # A Tramp Abroad by Mark Twain
+  "https://www.gutenberg.org/files/9611/9611-0.txt",   # Joseph Andrews, Vol. 1 by Henry Fielding
+  "https://www.gutenberg.org/files/6593/6593-0.txt",   # History of Tom Jones, a Foundling by Henry Fielding
+  "https://www.gutenberg.org/files/9609/9609-0.txt",   # Joseph Andrews, Vol. 2 by Henry Fielding
+  "https://www.gutenberg.org/files/1147/1147-0.txt",   # A Journey from This World to the Next by Henry Fielding
+  "https://www.gutenberg.org/files/5256/5256-0.txt",   # The History of the Life of the Late Mr. Jonathan Wild the Great by Henry Fielding
+  "https://www.gutenberg.org/files/30962/30962-0.txt", # An Apology for the Life of Mrs. Shamela Andrews by Henry Fielding
+  "https://www.gutenberg.org/files/75512/75512-0.txt", # The life and adventures of a cat by Henry Fielding and William Guthrie
+  "https://www.gutenberg.org/files/1026/1026-0.txt",   # The Diary of a Nobody by George Grossmith and Weedon Grossmith
+  "https://www.gutenberg.org/files/7265/7265-0.txt",   # The History of Pendennis by William Makepeace Thackeray
+  "https://www.gutenberg.org/files/179/179-0.txt",     # The Europeans by Henry James
+  "https://www.gutenberg.org/files/3154/3154-0.txt",   # The Surprising Adventures of Baron Munchausen by Rudolf Erich Raspe
+  "https://www.gutenberg.org/files/13260/13260-0.txt", # Droll Stories — Complete by Honoré de Balzac
+  "https://www.gutenberg.org/files/16205/16205-0.txt", # The Physiology of Marriage, Complete by Honoré de Balzac
+=
+  
 ]
