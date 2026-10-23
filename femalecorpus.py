@@ -207,4 +207,46 @@ sources = [
     "https://www.gutenberg.org/files/32200/32200-0.txt", #Sowing and Sewing: A Sexagesima Story by Charlotte M. Yonge
     "https://www.gutenberg.org/files/5251/5251-0.txt",   #The Long Vacation by Charlotte M. Yonge
     "https://www.gutenberg.org/files/6007/6007-0.txt",   #The Two Sides of the Shield by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/12449/12449-0.txt", #A Reputed Changeling; Or, Three Seventh Years Two Centuries Ago by Yonge
+    "https://www.gutenberg.org/files/4236/4236-0.txt",   #Dynevor Terrace; Or, The Clue of Life — Volume 2 by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/9959/9959-0.txt",   #The Armourer's Prentices by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4364/4364-0.txt",   #The Lances of Lynwood by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/3139/3139-0.txt",   #The Dove in the Eagle's Nest by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4267/4267-0.txt",   #Abbeychurch; Or, Self-Control and Self-Conceit by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/2573/2573-0.txt",   #The Caged Lion by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/5156/5156-0.txt",   #Beechcroft at Rockstone by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4271/4271-0.txt",   #A Modern Telemachus by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/5313/5313-0.txt",   #The Herd Boy and His Hermit by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4296/4296-0.txt",   #Friarswood Post Office by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/21223/21223-0.txt", #The Carbonels by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/7387/7387-0.txt",   #Grisly Grisell; Or, The Laidly Lady of Whitburn: A Tale of the Wars of the…
+    "https://www.gutenberg.org/files/20323/20323-0.txt", #That Stick by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4659/4659-0.txt",   #Lady Hester; Or, Ursula's Narrative by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/9926/9926-0.txt",   #The Two Guardians by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4053/4053-0.txt",   #Nuttie's Father by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4944/4944-0.txt",   #Scenes and Characters, or, Eighteen Months at Beechcroft by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/12485/12485-0.txt", #The Three Brides by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/3696/3696-0.txt",   #The Prince and the Page: A Story of the Last Crusade by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/4347/4347-0.txt",   #My Young Alcides: A Faded Photograph by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/24651/24651-0.txt", #Old Times at Otterbourne by Charlotte M. Yonge
+    "https://www.gutenberg.org/files/25493/25493-0.txt", #A Cathedral Courtship by Kate Douglas Smith Wiggin
+    "https://www.gutenberg.org/files/721/721-0.txt",     #The Birds' Christmas Carol by Kate Douglas Smith Wiggin
+    "https://www.gutenberg.org/files/18531/18531-0.txt", #Timothy's Quest by Kate Douglas Smith Wiggin
+    "https://www.gutenberg.org/files/15630/15630-0.txt", #Polly Oliver's Problem by Kate Douglas Smith Wiggin
+    "https://www.gutenberg.org/files/13506/13506-0.txt", #The Story of Patsy by Kate Douglas Smith Wiggin
+    "https://www.gutenberg.org/files/28877/28877-0.txt", #Penelope's Progress by Kate Douglas Smith Wiggin
+    "https://www.gutenberg.org/files/28006/28006-0.txt", #The Perpetual Curate by Mrs. Oliphant
+    "https://www.gutenberg.org/files/10052/10052-0.txt", #The Open Door, and the Portrait. by Mrs. Oliphant
+    "https://www.gutenberg.org/files/41286/41286-0.txt", #Miss Marjoribanks by Mrs. Oliphant
+    "https://www.gutenberg.org/files/28629/28629-0.txt", #Phoebe, Junior by Mrs. Oliphant
+    "https://www.gutenberg.org/files/48197/48197-0.txt", #Hester: A Story of Contemporary Life, Volume 1 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/48199/48199-0.txt", #Hester: A Story of Contemporary Life, Volume 3 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/55868/55868-0.txt", #Lady William by Mrs. Oliphant
+    "https://www.gutenberg.org/files/54106/54106-0.txt", #Neighbours on the Green by Mrs. Oliphant
+    "https://www.gutenberg.org/files/59918/59918-0.txt", #The Story of a Governess by Mrs. Oliphant
+    "https://www.gutenberg.org/files/42045/42045-0.txt", #The Curate in Charge by Mrs. Oliphant
+    "https://www.gutenberg.org/files/11521/11521-0.txt", #A Beleaguered City by Mrs. Oliphant
+    "https://www.gutenberg.org/files/42013/42013-0.txt", #Salem Chapel, v. 1/2 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/54108/54108-0.txt", #Squire Arden; volume 1 of 3 by Mrs. Oliphant
+    
 ]
