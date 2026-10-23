@@ -2,6 +2,8 @@
 Work in progress
 
 Note: as I continue to collate this corpus, I will attempt to blend satirical essays/shorter works with satirical novels.
+As it's difficult to get a small model to the level of coherence needed with only 100 books, I will combine this current corpus with general comedic works. 
+Also, the format in which the links currently exist is not the most conducive to my preprocessing workflow, so I will be switching these links to their cache formats in the future. 
 
 Not exclusive to works originally published in English. 
 """
