@@ -1,5 +1,5 @@
 """
-Still undergoing expansion processes. 
+Still undergoing expansion processes. My first checkpoint in terms of length will be 300 books, but a length closer to 500 books would be ideal. 
 """
 sources = [
     "https://www.gutenberg.org/files/1342/1342-0.txt",   #Pride and Prejudice by Jane Austen
