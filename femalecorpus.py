@@ -297,5 +297,55 @@ sources = [
     "https://www.gutenberg.org/files/61445/61445-0.txt", #A House Divided Against Itself (Complete) by Mrs. Oliphant
     "https://www.gutenberg.org/files/58710/58710-0.txt", #The Land of Darkness by Mrs. Oliphant
     "https://www.gutenberg.org/files/53645/53645-0.txt", #Heart and Cross by Mrs. Oliphant
-    "https://www.gutenberg.org/files/66376/66376-0.txt"  #Young Musgrave by Mrs. Oliphant
+    "https://www.gutenberg.org/files/66376/66376-0.txt", #Young Musgrave by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63903/63903-0.txt", #The Duke's Daughter; and, The Fugitives; vol. 3/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/66376/66376-0.txt", #Sir Tom by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47618/47618-0.txt", #At His Gates: A Novel. Vol. 1 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/74734/74734-0.txt", #Caleb Field : A tale of the Puritans by Mrs. Oliphant
+    "https://www.gutenberg.org/files/61782/61782-0.txt", #A Poor Gentleman by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47592/47592-0.txt", #The Ladies Lindores, Vol. 2 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/55784/55784-0.txt", #Two Strangers by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47593/47593-0.txt", #The Ladies Lindores, Vol. 3 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63158/63158-0.txt", #Harry Joscelyn; vol. 2 of 3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/58707/58707-0.txt", #Kirsteen: The Story of a Scotch Family Seventy Years Ago by Mrs. Oliphant
+    "https://www.gutenberg.org/files/45817/45817-0.txt", #The House on the Moor, v. 2/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/58253/58253-0.txt", #The Minister's Wife by Mrs. Oliphant
+    "https://www.gutenberg.org/files/64779/64779-0.txt", #He that will not when he may; vol. III by Mrs. Oliphant
+    "https://www.gutenberg.org/files/59720/59720-0.txt", #The Son of His Father; vol. 1/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/55166/55166-0.txt", #The Unjust Steward; or, The Minister's Debt by Mrs. Oliphant
+    "https://www.gutenberg.org/files/52615/52615-0.txt", #The Two Marys by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65633/65633-0.txt", #May; vol. II by Mrs. Oliphant
+    "https://www.gutenberg.org/files/55140/55140-0.txt", #A House in Bloomsbury by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63302/63302-0.txt", #Cousin Mary by Mrs. Oliphant
+    "https://www.gutenberg.org/files/59721/59721-0.txt", #The Son of His Father; vol. 2/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/59424/59424-0.txt", #The Railway Man and His Children by Mrs. Oliphant
+    "https://www.gutenberg.org/files/47556/47556-0.txt", #The Wizard's Son, Vol. 2 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/61482/61482-0.txt", #The Mystery of Mrs. Blencarrow by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65227/65227-0.txt", #John, A Love Story; vol. 2 of 2 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/58323/58323-0.txt", #The Three Brothers; Complete by Mrs. Oliphant
+    "https://www.gutenberg.org/files/74930/74930-0.txt", #Memoirs and resolutions of Adam Graeme of Mossgray, including some chronicles…
+    "https://www.gutenberg.org/files/57988/57988-0.txt", #A son of the soil by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63901/63901-0.txt", #The Duke's Daughter; and, The Fugitives; vol. 1/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/64777/64777-0.txt", #He that will not when he may; vol. I by Mrs. Oliphant
+    "https://www.gutenberg.org/files/10051/10051-0.txt", #The Little Pilgrim: Further Experiences. by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65935/65935-0.txt", #For love and life; vol. 2 of 2 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/15410/15410-0.txt", #A Little Pilgrim in the Unseen by Mrs. Oliphant
+    "https://www.gutenberg.org/files/60018/60018-0.txt", #The Son of His Father; vol. 3/3 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/63582/63582-0.txt", #Oliver's Bride; A true Story by Mrs. Oliphant
+    "https://www.gutenberg.org/files/59326/59326-0.txt", #The Quiet Heart by Mrs. Oliphant
+    "https://www.gutenberg.org/files/65934/65934-0.txt", #For love and life; vol. 1 of 2 by Mrs. Oliphant
+    "https://www.gutenberg.org/files/73086/73086-0.txt", #Harry Muir : A story of Scottish life, vol. 3 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/72777/72777-0.txt", #Harry Muir : A story of Scottish life, vol. 2 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/72715/72715-0.txt", #Harry Muir : A story of Scottish life, vol. 1 (of 3) by Mrs. Oliphant
+    "https://www.gutenberg.org/files/78381/78381-0.txt", #An odd couple by Mrs. Oliphant
+    "https://www.gutenberg.org/files/58459/58459-0.txt", #Lady Car: The Sequel of a Life by Mrs. Oliphant
+    "https://www.gutenberg.org/files/58446/58446-0.txt", #Sons and Daughters by Mrs. Oliphant
+    "https://www.gutenberg.org/files/29891/29891-0.txt", #The Rector by Mrs. Oliphant
+    "https://www.gutenberg.org/files/24898/24898-0.txt", #Robert Elsmere by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/8076/8076-0.txt",   #The History of David Grieve by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/13728/13728-0.txt", #Marcella by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/9633/9633-0.txt",   #Sir George Tressady — Volume I by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/9634/9634-0.txt",   #Sir George Tressady — Volume II by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/9441/9441-0.txt",   #Helbeck of Bannisdale — Volume I by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/9442/9442-0.txt",   #Helbeck of Bannisdale — Volume II by Mrs. Humphry Ward
 ]
