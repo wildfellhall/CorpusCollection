@@ -1,5 +1,5 @@
 """
-Still undergoing expansion processes. My first checkpoint in terms of length will be 300 books, but a length closer to 500 books would be ideal. 
+Still undergoing expansion processes. Reached the first checkpoint length of 300 books, now aiming towards 500. 
 """
 sources = [
     "https://www.gutenberg.org/files/1342/1342-0.txt",   #Pride and Prejudice by Jane Austen
@@ -348,4 +348,23 @@ sources = [
     "https://www.gutenberg.org/files/9634/9634-0.txt",   #Sir George Tressady — Volume II by Mrs. Humphry Ward
     "https://www.gutenberg.org/files/9441/9441-0.txt",   #Helbeck of Bannisdale — Volume I by Mrs. Humphry Ward
     "https://www.gutenberg.org/files/9442/9442-0.txt",   #Helbeck of Bannisdale — Volume II by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/13432/13432-0.txt", #Miss Bretherton by Mrs. Humphry Ward
+    "https://www.gutenberg.org/files/287/287-0.txt",     #Remember the Alamo by Amelia E. Barr
+    "https://www.gutenberg.org/files/16258/16258-0.txt", #The Squire of Sandal-Side: A Pastoral Romance by Amelia E. Barr
+    "https://www.gutenberg.org/files/29909/29909-0.txt", #A Singer from the Sea by Amelia E. Barr
+    "https://www.gutenberg.org/files/32144/32144-0.txt", #Jan Vedder's Wife by Amelia E. Barr
+    "https://www.gutenberg.org/files/31835/31835-0.txt", #Prisoners of Conscience by Amelia E. Barr
+    "https://www.gutenberg.org/files/17173/17173-0.txt", #The Bow of Orange Ribbon: A Romance of New York by Amelia E. Barr
+    "https://www.gutenberg.org/files/7062/7062-0.txt",   #A Daughter of Fife by Amelia E. Barr
+    "https://www.gutenberg.org/files/9374/9374-0.txt",   #A Knight of the Nets by Amelia E. Barr
+    "https://www.gutenberg.org/files/6806/6806-0.txt",   #The Hallam Succession by Amelia E. Barr
+    "https://www.gutenberg.org/files/33195/33195-0.txt", #Was It Right to Forgive? A Domestic Romance by Amelia E. Barr
+    "https://www.gutenberg.org/files/34628/34628-0.txt", #I, Thou, and the Other One: A Love Story by Amelia E. Barr
+    "https://www.gutenberg.org/files/33599/33599-0.txt", #A Rose of a Hundred Leaves: A Love Story by Amelia E. Barr
+    "https://www.gutenberg.org/files/46363/46363-0.txt", #Her Dark Inheritance by Mrs. E. Burke Collins
+    "https://www.gutenberg.org/files/70139/70139-0.txt", #A bitter reckoning; or, Violet Arleigh by Mrs. E. Burke Collins
+    "https://www.gutenberg.org/files/53009/53009-0.txt", #Patience Sparhawk and Her Times: A Novel by Gertrude Franklin Horn Atherton
+    "https://www.gutenberg.org/files/3706/3706-0.txt",   #The Valiant Runaways by Gertrude Franklin Horn Atherton
+    "https://www.gutenberg.org/files/50169/50169-0.txt", #Hermia Suydam by Gertrude Franklin Horn Atherton
+    
 ]
