@@ -1,5 +1,6 @@
 """
 Still undergoing expansion processes. Reached the first checkpoint length of 300 books, now aiming towards 500. 
+Will eventually transfer names, genre information, page count, pseudonyms, and other relevant pieces of information into a CSV file to look at the statistics and spread of the dataset as it stands now. 
 """
 sources = [
     "https://www.gutenberg.org/files/1342/1342-0.txt",   #Pride and Prejudice by Jane Austen
