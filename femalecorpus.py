@@ -413,6 +413,17 @@ sources = [
     "https://www.gutenberg.org/files/21690/21690-0.txt", #Flint: His Faults, His Friendships and His Fortunes by Maud Wilder Goodwin
     "https://www.gutenberg.org/files/54066/54066-0.txt", #The Younger Sister: A Novel, Volumes 1-3 by Mrs. Hubback
     "https://www.gutenberg.org/files/70732/70732-0.txt", #The old vicarage : A novel by Mrs. Hubback
-    "https://www.gutenberg.org/files/22843/22843-0.txt", #Aunt Deborah by Mary Russell Mitford
+    "https://www.gutenberg.org/files/23780/23780-0.txt", #A Little Girl in Old New York by Amanda M. Douglas
+    "https://www.gutenberg.org/files/23781/23781-0.txt", #A Little Girl of Long Ago; Or, Hannah Ann by Amanda M. Douglas
+    "https://www.gutenberg.org/files/28648/28648-0.txt", #A Little Girl in Old Philadelphia by Amanda M. Douglas
+    "https://www.gutenberg.org/files/23786/23786-0.txt", #A Little Girl in Old Boston by Amanda M. Douglas
+    "https://www.gutenberg.org/files/30436/30436-0.txt", #Hope Mills; Or, Between Friend and Sweetheart by Amanda M. Douglas
+    "https://www.gutenberg.org/files/43659/43659-0.txt", #The Old Woman Who Lived in a Shoe; Or, There's No Place Like Home by Douglas
+    "https://www.gutenberg.org/files/24376/24376-0.txt", #Floyd Grandon's Honor by Amanda M. Douglas
+    "https://www.gutenberg.org/files/36907/36907-0.txt", #In Wild Rose Time by Amanda M. Douglas
+    "https://www.gutenberg.org/files/40525/40525-0.txt", #Kathie's Soldiers by Amanda M. Douglas
+    "https://www.gutenberg.org/files/71729/71729-0.txt", #Seven daughters by Amanda M. Douglas
+
+
 
 ]
