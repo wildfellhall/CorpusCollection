@@ -2,7 +2,7 @@
 Still undergoing expansion processes. Reached the first checkpoint length of 300 books, now aiming towards 500. 
 Will eventually transfer names, genre information, page count, pseudonyms, and other relevant pieces of information into a CSV file to look at the statistics and spread of the dataset as it stands now.
 Note: editions published after 1899 were included on a case by case basis, meaning that I individually assessed original dates of publication as well as amendations made (if any) to determine whether or not the texts were authentic to the time period. 
-The only books with dates after in the colophons are books that had their copyrights renewed without any additions to the actual text. 
+The only books with dates after in the colophons are books that had their copyrights renewed without any additions to the actual text. In addition, I would like to preface with the fact that some authors, including Confederate sympathizers, have been included not because I agree with their viewpoints, but because they serve as valuable data points. 
 """
 sources = [
     "https://www.gutenberg.org/files/1342/1342-0.txt",   #Pride and Prejudice by Jane Austen
@@ -448,8 +448,61 @@ sources = [
     "https://www.gutenberg.org/files/48862/48862-0.txt", #Little Pitchers by Sophie May
     "https://www.gutenberg.org/files/49186/49186-0.txt", #Flaxie Growing Up by Sophie May
     "https://www.gutenberg.org/files/16383/16383-0.txt", #Dotty Dimple Out West by Sophie May
-    
-
-
-
+    "https://www.gutenberg.org/files/49686/49686-0.txt", #Little Prudy's Cousin Grace by Sophie May
+    "https://www.gutenberg.org/files/10320/10320-0.txt", #Dotty Dimple at Play by Sophie May
+    "https://www.gutenberg.org/files/367/367-0.txt",     #The Country of the Pointed Firs by Sarah Orne Jewett
+    "https://www.gutenberg.org/files/27923/27923-0.txt", #Betty Leicester: A Story For Girls by Sarah Orne Jewett
+    "https://www.gutenberg.org/files/41831/41831-0.txt", #Betty Leicester's Christmas by Sarah Orne Jewett
+    "https://www.gutenberg.org/files/23795/23795-0.txt", #Katie Robertson : A girls story of factory life by Margaret E. Winslow
+    "https://www.gutenberg.org/files/335/335-0.txt",     #Frances Waldeaux: A Novel by Rebecca Harding Davis
+    "https://www.gutenberg.org/files/515/515-0.txt",     #Margret Howth: A Story of To-day by Rebecca Harding Davis
+    "https://www.gutenberg.org/files/27811/27811-0.txt", #Macaria by Augusta J. Evans
+    "https://www.gutenberg.org/files/4209/4209-0.txt",   #At the Mercy of Tiberius by Augusta J. Evans
+    "https://www.gutenberg.org/files/31620/31620-0.txt", #Vashti; Or, Until Death Us Do Part by Augusta J. Evans
+    "https://www.gutenberg.org/files/4553/4553-0.txt",   #St. Elmo by Augusta J. Evans
+    "https://www.gutenberg.org/files/4246/4246-0.txt",   #Beulah by Augusta J. Evans
+    "https://www.gutenberg.org/files/15470/15470-0.txt", #Inez: A Tale of the Alamo by Augusta J. Evans
+    "https://www.gutenberg.org/files/2807/2807-0.txt",   #To Have and to Hold by Mary Johnston
+    "https://www.gutenberg.org/files/21886/21886-0.txt", #Prisoners of Hope: A Tale of Colonial Virginia by Mary Johnston
+    "https://www.gutenberg.org/files/25118/25118-0.txt", #When Grandmamma Was New: The Story of a Virginia Childhood by Marion Harland
+    "https://www.gutenberg.org/files/46505/46505-0.txt", #Alone by Marion Harland
+    "https://www.gutenberg.org/files/5622/5622-0.txt",   #At Last: A Novel by Marion Harland
+    "https://www.gutenberg.org/files/36414/36414-0.txt", #Jessamine: A Novel by Marion Harland
+    "https://www.gutenberg.org/files/48461/48461-0.txt", #Husks by Marion Harland
+    "https://www.gutenberg.org/files/50512/50512-0.txt", #Mr. Wayt's Wife's Sister by Marion Harland
+    "https://www.gutenberg.org/files/64117/64117-0.txt", #The Christmas Holly by Marion Harland
+    "https://www.gutenberg.org/files/69636/69636-0.txt", #Salome Shepard, reformer by Helen M. Winslow
+    "https://www.gutenberg.org/files/65290/65290-0.txt", #Among the Lindens by Evelyn Raymond
+    "https://www.gutenberg.org/files/67567/67567-0.txt", #The Little Lady of the Horse by Evelyn Raymond
+    "https://www.gutenberg.org/files/65223/65223-0.txt", #Mixed Pickles by Evelyn Raymond
+    "https://www.gutenberg.org/files/15546/15546-0.txt", #The Last of the Peterkins by Lucretia P. Hale 
+    "https://www.gutenberg.org/files/22052/22052-0.txt", #Standish of Standish: A Story of the Pilgrims by Jane G. Austin
+    "https://www.gutenberg.org/files/67608/67608-0.txt", #Betty Alden: The first-born daughter of the Pilgrims by Jane G. Austin
+    "https://www.gutenberg.org/files/4676/4676-0.txt",   #Outpost by Jane G. Austin
+    "https://www.gutenberg.org/files/24828/24828-0.txt", #Margaret Montfort by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/24826/24826-0.txt", #Hildegarde's Holiday: A Story for Girls by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/22293/22293-0.txt", #Three Margarets by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/25448/25448-0.txt", #Peggy by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/27607/27607-0.txt", #Rosin the Beau by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/16473/16473-0.txt", #Queen Hildegarde by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/41603/41603-0.txt", #Toto's Merry Winter by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/35281/35281-0.txt", #The Joyous Story of Toto by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/7824/7824-0.txt",   #Melody : The Story of a Child by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/34218/34218-0.txt", #Hildegarde's Home by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/27251/27251-0.txt", #"Some Say"; Neighbours in Cyrus by Laura Elizabeth Howe Richards
+    "https://www.gutenberg.org/files/23859/23859-0.txt", #A Venetian June by Anna Fuller
+    "https://www.gutenberg.org/files/27949/27949-0.txt", #Daisy by Susan Warner
+    "https://www.gutenberg.org/files/28376/28376-0.txt", #The Wide, Wide World by Susan Warner
+    "https://www.gutenberg.org/files/8874/8874-0.txt",   #Queechy by Susan Warner
+    "https://www.gutenberg.org/files/36159/36159-0.txt", #The Letter of Credit by Susan Warner
+    "https://www.gutenberg.org/files/27618/27618-0.txt", #The End of a Coil by Susan Warner
+    "https://www.gutenberg.org/files/26828/26828-0.txt", #A Red Wallflower by Susan Warner
+    "https://www.gutenberg.org/files/30148/30148-0.txt", #The House in Town by Susan Warner
+    "https://www.gutenberg.org/files/29824/29824-0.txt", #Diana by Susan Warner
+    "https://www.gutenberg.org/files/18689/18689-0.txt", #The Wide, Wide World by Susan Warner
+    "https://www.gutenberg.org/files/12963/12963-0.txt", #Melbourne House, Volume 1 by Susan Warner
+    "https://www.gutenberg.org/files/30146/30146-0.txt", #What She Could by Susan Warner
+    "https://www.gutenberg.org/files/28524/28524-0.txt", #Nobody by Susan Warner
+    "https://www.gutenberg.org/files/30149/30149-0.txt", #Trading by Susan Warner
+    "https://www.gutenberg.org/files/16918/16918-0.txt", #Hills of the Shatemuc by Susan Warner
 ]
