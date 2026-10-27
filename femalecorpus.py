@@ -1,6 +1,8 @@
 """
 Still undergoing expansion processes. Reached the first checkpoint length of 300 books, now aiming towards 500. 
-Will eventually transfer names, genre information, page count, pseudonyms, and other relevant pieces of information into a CSV file to look at the statistics and spread of the dataset as it stands now. 
+Will eventually transfer names, genre information, page count, pseudonyms, and other relevant pieces of information into a CSV file to look at the statistics and spread of the dataset as it stands now.
+Note: editions published after 1899 were included on a case by case basis, meaning that I individually assessed original dates of publication as well as amendations made (if any) to determine whether or not the texts were authentic to the time period. 
+The only books with dates after in the colophons are books that had their copyrights renewed without any additions to the actual text. 
 """
 sources = [
     "https://www.gutenberg.org/files/1342/1342-0.txt",   #Pride and Prejudice by Jane Austen
@@ -367,5 +369,41 @@ sources = [
     "https://www.gutenberg.org/files/53009/53009-0.txt", #Patience Sparhawk and Her Times: A Novel by Gertrude Franklin Horn Atherton
     "https://www.gutenberg.org/files/3706/3706-0.txt",   #The Valiant Runaways by Gertrude Franklin Horn Atherton
     "https://www.gutenberg.org/files/50169/50169-0.txt", #Hermia Suydam by Gertrude Franklin Horn Atherton
-    
+    "https://www.gutenberg.org/files/35512/35512-0.txt", #A Daughter of the Vine by Gertrude Franklin Horn Atherton
+    "https://www.gutenberg.org/files/12833/12833-0.txt", #What Dreams May Come by Gertrude Franklin Horn Atherton
+    "https://www.gutenberg.org/files/67075/67075-0.txt", #A Whirl Asunder by Gertrude Franklin Horn Atherton
+    "https://www.gutenberg.org/files/68222/68222-0.txt", #His fortunate Grace by Gertrude Franklin Horn Atherton
+    "https://www.gutenberg.org/files/51103/51103-0.txt", #A Chautauqua Idyl by Grace Livingston Hill
+    "https://www.gutenberg.org/files/26742/26742-0.txt", #The Chautauqua Girls At Home by Pansy
+    "https://www.gutenberg.org/files/20808/20808-0.txt", #Three People by Pansy
+    "https://www.gutenberg.org/files/9091/9091-0.txt",   #Ester Ried Yet Speaking by Pansy
+    "https://www.gutenberg.org/files/45537/45537-0.txt", #Interrupted by Pansy
+    "https://www.gutenberg.org/files/54078/54078-0.txt", #Ruth Erskine's Crosses by Pansy
+    "https://www.gutenberg.org/files/9648/9648-0.txt",   #Tip Lewis and His Lamp by Pansy
+    "https://www.gutenberg.org/files/12662/12662-0.txt", #Four Girls at Chautauqua by Pansy
+    "https://www.gutenberg.org/files/60174/60174-0.txt", #The Children of the Abbey: A Tale by Regina Maria Roche
+    "https://www.gutenberg.org/files/17886/17886-0.txt", #Jerome, A Poor Man: A Novel by Mary Eleanor Wilkins Freeman
+    "https://www.gutenberg.org/files/17428/17428-0.txt", #Pembroke: A Novel by Mary Eleanor Wilkins Freeman
+    "https://www.gutenberg.org/files/17792/17792-0.txt", #The Jamesons by Mary Eleanor Wilkins Freeman
+    "https://www.gutenberg.org/files/17885/17885-0.txt", #Madelon: A Novel by Mary Eleanor Wilkins Freeman
+    "https://www.gutenberg.org/files/17891/17891-0.txt", #Evelina's Garden by Mary Eleanor Wilkins Freeman
+    "https://www.gutenberg.org/files/17790/17790-0.txt", #Jane Field: A Novel by Mary Eleanor Wilkins Freeman
+    "https://www.gutenberg.org/files/41655/41655-0.txt", #Stephen: A Soldier of the Cross by Florence Morse Kingsley
+    "https://www.gutenberg.org/files/29581/29581-0.txt", #The Bondwoman by Marah Ellis Ryan
+    "https://www.gutenberg.org/files/36246/36246-0.txt", #Told in the Hills: A Novel by Marah Ellis Ryan
+    "https://www.gutenberg.org/files/2374/2374-0.txt",   #Dora Thorne by Charlotte M. Brame
+    "https://www.gutenberg.org/files/33989/33989-0.txt", #Love Works Wonders: A Novel by Charlotte M. Brame
+    "https://www.gutenberg.org/files/31489/31489-0.txt", #A Mad Love by Charlotte M. Brame
+    "https://www.gutenberg.org/files/41932/41932-0.txt", #A Fair Mystery: The Story of a Coquette by Charlotte M. Brame
+    "https://www.gutenberg.org/files/12886/12886-0.txt", #The Coquette's Victim by Charlotte M. Brame
+    "https://www.gutenberg.org/files/13162/13162-0.txt", #Coralie by Charlotte M. Brame
+    "https://www.gutenberg.org/files/15181/15181-0.txt", #My Mother's Rival by Charlotte M. Brame
+    "https://www.gutenberg.org/files/15183/15183-0.txt", #The Tragedy of the Chain Pier by Charlotte M. Brame
+    "https://www.gutenberg.org/files/15182/15182-0.txt", #Marion Arleigh's Penance by Charlotte M. Brame
+    "https://www.gutenberg.org/files/12669/12669-0.txt", #Marriage by Susan Ferrier
+    "https://www.gutenberg.org/files/46708/46708-0.txt", #The Dead Letter: An American Romance by Metta Victoria Fuller Victor
+    "https://www.gutenberg.org/files/46586/46586-0.txt", #Alice Wilde: The Raftsman's Daughter. A Forest Romance by Victor
+    "https://www.gutenberg.org/files/20754/20754-0.txt", #The Blunders of a Bashful Man by Metta Victoria Fuller Victor
+    "https://www.gutenberg.org/files/68363/68363-0.txt", #Nat Wolfe; or, The gold hunters: A romance of Pike's Peak and New York by Victor
+
 ]
