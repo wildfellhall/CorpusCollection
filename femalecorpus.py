@@ -1,5 +1,5 @@
 """
-Still undergoing expansion processes. Reached the first checkpoint length of 300 books, now aiming towards 500. 
+Reached checkpoint length of 500. Will begin curating the male corpus towards around the same length before deciding if additional expansion is needed. 
 Will eventually transfer names, genre information, page count, pseudonyms, and other relevant pieces of information into a CSV file to look at the statistics and spread of the dataset as it stands now.
 Note: editions published after 1899 were included on a case by case basis, meaning that I individually assessed original dates of publication as well as amendations made (if any) to determine whether or not the texts were authentic to the time period. 
 The only books with dates after in the colophons are books that had their copyrights renewed without any additions to the actual text. In addition, I would like to preface with the fact that some authors, including Confederate sympathizers, have been included not because I agree with their viewpoints, but because they serve as valuable data points. 
