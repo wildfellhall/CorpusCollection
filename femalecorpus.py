@@ -423,6 +423,32 @@ sources = [
     "https://www.gutenberg.org/files/36907/36907-0.txt", #In Wild Rose Time by Amanda M. Douglas
     "https://www.gutenberg.org/files/40525/40525-0.txt", #Kathie's Soldiers by Amanda M. Douglas
     "https://www.gutenberg.org/files/71729/71729-0.txt", #Seven daughters by Amanda M. Douglas
+    "https://www.gutenberg.org/files/25551/25551-0.txt", #Six Girls: A Home Story by Fannie Belle Irving
+    "https://www.gutenberg.org/files/134/134-0.txt",     #Maria; Or, The Wrongs of Woman by Mary Wollstonecraft
+    "https://www.gutenberg.org/files/16357/16357-0.txt", #Mary: A Fiction by Mary Wollstonecraft
+    "https://www.gutenberg.org/files/37355/37355-0.txt", #Pray You, Sir, Whose Daughter? by Helen H. Gardener
+    "https://www.gutenberg.org/files/42328/42328-0.txt", #An Unofficial Patriot by Helen H. Gardener
+    "https://www.gutenberg.org/files/25481/25481-0.txt", #Little Grandfather by Sophie May
+    "https://www.gutenberg.org/files/23540/23540-0.txt", #The Twin Cousins by Sophie May
+    "https://www.gutenberg.org/files/25507/25507-0.txt", #Little Grandmother by Sophie May
+    "https://www.gutenberg.org/files/25356/25356-0.txt", #Aunt Madge's Story by Sophie May
+    "https://www.gutenberg.org/files/25484/25484-0.txt", #Captain Horace by Sophie May
+    "https://www.gutenberg.org/files/20984/20984-0.txt", #Prudy Keeping House by Sophie May
+    "https://www.gutenberg.org/files/24711/24711-0.txt", #Little Prudy by Sophie May
+    "https://www.gutenberg.org/files/48648/48648-0.txt", #Doctor Papa by Sophie May
+    "https://www.gutenberg.org/files/20699/20699-0.txt", #Dotty Dimple at Her Grandmother's by Sophie May
+    "https://www.gutenberg.org/files/11257/11257-0.txt", #Little Folks Astray by Sophie May
+    "https://www.gutenberg.org/files/19247/19247-0.txt", #Dotty Dimple's Flyaway by Sophie May
+    "https://www.gutenberg.org/files/48951/48951-0.txt", #Dotty Dimple at School by Sophie May
+    "https://www.gutenberg.org/files/25396/25396-0.txt", #Dotty Dimple At Home by Sophie May
+    "https://www.gutenberg.org/files/49227/49227-0.txt", #Kittyleen by Sophie May
+    "https://www.gutenberg.org/files/14202/14202-0.txt", #Little Prudy's Sister Susy by Sophie May
+    "https://www.gutenberg.org/files/49519/49519-0.txt", #Jimmy Boy by Sophie May
+    "https://www.gutenberg.org/files/16390/16390-0.txt", #Little Prudy's Dotty Dimple by Sophie May
+    "https://www.gutenberg.org/files/48862/48862-0.txt", #Little Pitchers by Sophie May
+    "https://www.gutenberg.org/files/49186/49186-0.txt", #Flaxie Growing Up by Sophie May
+    "https://www.gutenberg.org/files/16383/16383-0.txt", #Dotty Dimple Out West by Sophie May
+    
 
 
 
