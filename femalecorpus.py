@@ -405,5 +405,14 @@ sources = [
     "https://www.gutenberg.org/files/46586/46586-0.txt", #Alice Wilde: The Raftsman's Daughter. A Forest Romance by Victor
     "https://www.gutenberg.org/files/20754/20754-0.txt", #The Blunders of a Bashful Man by Metta Victoria Fuller Victor
     "https://www.gutenberg.org/files/68363/68363-0.txt", #Nat Wolfe; or, The gold hunters: A romance of Pike's Peak and New York by Victor
+    "https://www.gutenberg.org/files/1327/1327-0.txt",   #Elizabeth and Her German Garden by Elizabeth Von Arnim
+    "https://www.gutenberg.org/files/5991/5991-0.txt",   #The Solitary Summer by Elizabeth Von Arnim
+    "https://www.gutenberg.org/files/31879/31879-0.txt", #Coelebs In Search of a Wife by Hannah More
+    "https://www.gutenberg.org/files/23106/23106-0.txt", #Helen and Arthur; or, Miss Thusa's Spinning Wheel by Caroline Lee Hentz
+    "https://www.gutenberg.org/files/20462/20462-0.txt", #Ernest Linwood; or, The Inner Life of the Author by Caroline Lee Hentz
+    "https://www.gutenberg.org/files/21690/21690-0.txt", #Flint: His Faults, His Friendships and His Fortunes by Maud Wilder Goodwin
+    "https://www.gutenberg.org/files/54066/54066-0.txt", #The Younger Sister: A Novel, Volumes 1-3 by Mrs. Hubback
+    "https://www.gutenberg.org/files/70732/70732-0.txt", #The old vicarage : A novel by Mrs. Hubback
+    "https://www.gutenberg.org/files/22843/22843-0.txt", #Aunt Deborah by Mary Russell Mitford
 
 ]
