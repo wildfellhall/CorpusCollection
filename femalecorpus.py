@@ -531,4 +531,38 @@ sources = [
     "https://www.gutenberg.org/files/28524/28524-0.txt", #Nobody by Susan Warner
     "https://www.gutenberg.org/files/30149/30149-0.txt", #Trading by Susan Warner
     "https://www.gutenberg.org/files/16918/16918-0.txt", #Hills of the Shatemuc by Susan Warner
+    "https://www.gutenberg.org/files/8954/8954-0.txt",   #Lady Audley's Secret by M. E. Braddon
+    "https://www.gutenberg.org/files/75840/75840-0.txt", #The trail of the serpent by M. E. Braddon
+    "https://www.gutenberg.org/files/11720/11720-0.txt", #Fenton's Quest by M. E. Braddon
+    "https://www.gutenberg.org/files/9189/9189-0.txt",   #Henry Dunbar: A Novel by M. E. Braddon
+    "https://www.gutenberg.org/files/35485/35485-0.txt", #The Doctor's Wife: A Novel by M. E. Braddon
+    "https://www.gutenberg.org/files/9475/9475-0.txt",   #The Lovels of Arden by M. E. Braddon
+    "https://www.gutenberg.org/files/50037/50037-0.txt", #Wyllard's Weird: A Novel by M. E. Braddon
+    "https://www.gutenberg.org/files/70938/70938-0.txt", #The day will come : a novel by M. E. Braddon
+    "https://www.gutenberg.org/files/48020/48020-0.txt", #Aurora Floyd, Vol. 1 by M. E. Braddon
+    "https://www.gutenberg.org/files/48021/48021-0.txt", #Aurora Floyd, Vol. 2 by M. E. Braddon
+    "https://www.gutenberg.org/files/48022/48022-0.txt", #Aurora Floyd, Vol. 3 by M. E. Braddon
+    "https://www.gutenberg.org/files/57405/57405-0.txt", #All along the River: A Novel by M. E. Braddon
+    "https://www.gutenberg.org/files/10905/10905-0.txt", #Phantom Fortune, a Novel by M. E. Braddon
+    "https://www.gutenberg.org/files/74385/74385-0.txt", #The Venetians : A novel by M. E. Braddon
+    "https://www.gutenberg.org/files/9052/9052-0.txt",   #The Golden Calf by M. E. Braddon
+    "https://www.gutenberg.org/files/9377/9377-0.txt",   #London Pride, Or, When the World Was Younger by M. E. Braddon
+    "https://www.gutenberg.org/files/34542/34542-0.txt", #John Marchmont's Legacy, Volumes 1-3 by M. E. Braddon
+    "https://www.gutenberg.org/files/73931/73931-0.txt", #The cloven foot : A novel by M. E. Braddon
+    "https://www.gutenberg.org/files/74484/74484-0.txt", #The Octoroon by M. E. Braddon
+    "https://www.gutenberg.org/files/9362/9362-0.txt",   #Birds of Prey by M. E. Braddon
+    "https://www.gutenberg.org/files/76927/76927-0.txt", #Only a clod by M. E. Braddon
+    "https://www.gutenberg.org/files/9102/9102-0.txt",   #Run to Earth: A Novel by M. E. Braddon
+    "https://www.gutenberg.org/files/26236/26236-0.txt", #Vixen, Volume I. by M. E. Braddon
+    "https://www.gutenberg.org/files/26237/26237-0.txt", #Vixen, Volume II. by M. E. Braddon
+    "https://www.gutenberg.org/files/26238/26238-0.txt", #Vixen, Volume III. by M. E. Braddon
+    "https://www.gutenberg.org/files/75125/75125-0.txt", #Eleanor's victory by M. E. Braddon
+    "https://www.gutenberg.org/files/71631/71631-0.txt", #His darling sin by M. E. Braddon
+    "https://www.gutenberg.org/files/76502/76502-0.txt", #The lady's mile : a novel by M. E. Braddon
+    "https://www.gutenberg.org/files/9259/9259-0.txt",   #Charlotte's Inheritance by M. E. Braddon
+    "https://www.gutenberg.org/files/75410/75410-0.txt", #The fatal three, vol. I by M. E. Braddon
+    "https://www.gutenberg.org/files/75411/75411-0.txt", #The fatal three, vol. II by M. E. Braddon
+    "https://www.gutenberg.org/files/75412/75412-0.txt", #The fatal three, vol. III by M. E. Braddon
+    "https://www.gutenberg.org/files/75506/75506-0.txt", #Asphodel : a novel by M. E. Braddon
+    
 ]
