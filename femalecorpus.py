@@ -53,6 +53,32 @@ sources = [
     "https://www.gutenberg.org/files/3322/3322-0.txt",   #East Lynne by Mrs. Henry Wood
     "https://www.gutenberg.org/files/15627/15627-0.txt", #Verner's Pride by Mrs. Henry Wood
     "https://www.gutenberg.org/files/34587/34587-0.txt", #Mrs. Halliburton's Troubles by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58188/58188-0.txt", #Oswald Cray: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/38832/38832-0.txt", #A Life's Secret: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/57875/57875-0.txt", #Anne Hereford: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58086/58086-0.txt", #Roland Yorke by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/36106/36106-0.txt", #Trevlyn Hold: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/42200/42200-0.txt", #The Shadow of Ashlydyat by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/9192/9192-0.txt",   #The Channings: A Story by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58582/58582-0.txt", #St. Martin's Eve: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58431/58431-0.txt", #Orville College: A Story by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/59144/59144-0.txt", #The Master of Greylands: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/39692/39692-0.txt", #Mildred Arkell: A Novel. Vol. 1 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/39377/39377-0.txt", #Mildred Arkell: A Novel. Vol. 2 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/39693/39693-0.txt", #Mildred Arkell: A Novel. Vol. 3 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/40418/40418-0.txt", #It May Be True, Vol. 1 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/39192/39192-0.txt", #It May Be True, Vol. 2 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/39193/39193-0.txt", #It May Be True, Vol. 3 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/38623/38623-0.txt", #The Story of Charles Strange: A Novel. Vol. 1 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/38624/38624-0.txt", #The Story of Charles Strange: A Novel. Vol. 2 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/38625/38625-0.txt", #The Story of Charles Strange: A Novel. Vol. 3 (of 3) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58345/58345-0.txt", #Within the Maze: A Novel, Vol. 1 (of 2) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58346/58346-0.txt", #Within the Maze: A Novel, Vol. 2 (of 2) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58046/58046-0.txt", #The Red Court Farm: A Novel (Vol. 1 of 2) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58047/58047-0.txt", #The Red Court Farm: A Novel (Vol. 2 of 2) by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58774/58774-0.txt", #Court Netherleigh: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58288/58288-0.txt", #Bessy Rane: A Novel by Mrs. Henry Wood
+    "https://www.gutenberg.org/files/58701/58701-0.txt", #Edina: A Novel by Mrs. Henry Wood
     "https://www.gutenberg.org/files/22121/22121-0.txt", #Olive: A Novel by Dinah Maria Mulock Craik
     "https://www.gutenberg.org/files/45975/45975-0.txt", #The Little Lame Prince and His Travelling Cloak by Dinah Maria Mulock Craik
     "https://www.gutenberg.org/files/21767/21767-0.txt", #Agatha's Husband: A Novel by Dinah Maria Mulock Craik
