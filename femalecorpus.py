@@ -574,6 +574,37 @@ sources = [
     "https://www.gutenberg.org/files/57086/57086-0.txt", #A Strange World: A Novel. Volume 1 (of 3) by M. E. Braddon
     "https://www.gutenberg.org/files/41374/41374-0.txt", #Mohawks: A Novel. Volume 1 of 3 by M. E. Braddon
     "https://www.gutenberg.org/files/41375/41375-0.txt", #Mohawks: A Novel. Volume 2 of 3 by M. E. Braddon
+    "https://www.gutenberg.org/files/23641/23641-0.txt", #The Forsaken Inn: A Novel by Anna Katharine Green
+    "https://www.gutenberg.org/files/4047/4047-0.txt",   #The Leavenworth Case by Anna Katharine Green
+    "https://www.gutenberg.org/files/21617/21617-0.txt", #That Affair Next Door by Anna Katharine Green
+    "https://www.gutenberg.org/files/1167/1167-0.txt",   #A Strange Disappearance by Anna Katharine Green
+    "https://www.gutenberg.org/files/33301/33301-0.txt", #The Sword of Damocles: A Story of New York Life by Anna Katharine Green
+    "https://www.gutenberg.org/files/31681/31681-0.txt", #Hand and Ring by Anna Katharine Green
+    "https://www.gutenberg.org/files/5162/5162-0.txt",   #Agatha Webb by Anna Katharine Green
+    "https://www.gutenberg.org/files/33305/33305-0.txt", #Lost Man's Lane: A Second Episode in the Life of Amelia Butterworth by Green
+    "https://www.gutenberg.org/files/32439/32439-0.txt", #The Doctor, his Wife, and the Clock by Anna Katharine Green
+    "https://www.gutenberg.org/files/33695/33695-0.txt", #X Y Z: A Detective Story by Anna Katharine Green
+    "https://www.gutenberg.org/files/36758/36758-0.txt", #Cynthia Wakeham's Money by Anna Katharine Green
+    "https://www.gutenberg.org/files/22809/22809-0.txt", #The Hermit Of ——— Street by Anna Katharine Green
+    "https://www.gutenberg.org/files/56787/56787-0.txt", #7 to 12: A Detective Story by Anna Katharine Green
+    "https://www.gutenberg.org/files/57643/57643-0.txt", #Doctor Izard by Anna Katharine Green
+    "https://www.gutenberg.org/files/6805/6805-0.txt",   #The Mill Mystery by Anna Katharine Green
+    "https://www.gutenberg.org/files/22806/22806-0.txt", #The Bronze Hand by Anna Katharine Green
+    "https://www.gutenberg.org/files/24750/24750-0.txt", #Mizora: A Prophecy by Mary E. Bradley Lane
+    "https://www.gutenberg.org/files/770/770-0.txt",     #The Story of the Treasure Seekers by E. Nesbit
+    "https://www.gutenberg.org/files/40814/40814-0.txt", #Ruth Hall: A Domestic Tale of the Present Time by Fanny Fern
+    "https://www.gutenberg.org/files/41542/41542-0.txt", #Rose Clark by Fanny Fern
+    "https://www.gutenberg.org/files/1905/1905-0.txt",   #The Governess; Or, The Little Female Academy by Sarah Fielding
+    "https://www.gutenberg.org/files/79731/79731-0.txt", #On the edge of a moor by Amy Le Feuvre
+    "https://www.gutenberg.org/files/22243/22243-0.txt", #Dwell Deep; or, Hilda Thorn's Life Story by Amy Le Feuvre
+    "https://www.gutenberg.org/files/11470/11470-0.txt", #His big opportunity by Amy Le Feuvre
+    "https://www.gutenberg.org/files/22232/22232-0.txt", #The Carved Cupboard by Amy Le Feuvre
+    "https://www.gutenberg.org/files/10777/10777-0.txt", #Probable Sons by Amy Le Feuvre
+    "https://www.gutenberg.org/files/76174/76174-0.txt", #Legend-led by Amy Le Feuvre
+    "https://www.gutenberg.org/files/72454/72454-0.txt", #What the wind did by Amy Le Feuvre
+    "https://www.gutenberg.org/files/10880/10880-0.txt", #Teddy's Button by Amy Le Feuvre
+    "https://www.gutenberg.org/files/35538/35538-0.txt", #The Squatter and the Don by María Amparo Ruiz de Burton
+    "https://www.gutenberg.org/files/79593/79593-0.txt", #Work, wait, win by Ruth Lamb
 
     
 ]
