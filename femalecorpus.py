@@ -564,5 +564,16 @@ sources = [
     "https://www.gutenberg.org/files/75411/75411-0.txt", #The fatal three, vol. II by M. E. Braddon
     "https://www.gutenberg.org/files/75412/75412-0.txt", #The fatal three, vol. III by M. E. Braddon
     "https://www.gutenberg.org/files/75506/75506-0.txt", #Asphodel : a novel by M. E. Braddon
+    "https://www.gutenberg.org/files/75875/75875-0.txt", #Lucius Davoren; or, Publicans and sinners, vol. 1 by M. E. Braddon
+    "https://www.gutenberg.org/files/75876/75876-0.txt", #Lucius Davoren; or, Publicans and sinners, vol. 2 by M. E. Braddon
+    "https://www.gutenberg.org/files/75877/75877-0.txt", #Lucius Davoren; or, Publicans and sinners, vol. 3 by M. E. Braddon
+    "https://www.gutenberg.org/files/77631/77631-0.txt", #Rupert Godwin : A novel by M. E. Braddon
+    "https://www.gutenberg.org/files/41339/41339-0.txt", #Mount Royal: A Novel. Volume 1 of 3 by M. E. Braddon
+    "https://www.gutenberg.org/files/67237/67237-0.txt", #An open verdict : a novel, volume 1 (of 3) by M. E. Braddon
+    "https://www.gutenberg.org/files/68040/68040-0.txt", #An open verdict : a novel, volume 3 (of 3) by M. E. Braddon
+    "https://www.gutenberg.org/files/57086/57086-0.txt", #A Strange World: A Novel. Volume 1 (of 3) by M. E. Braddon
+    "https://www.gutenberg.org/files/41374/41374-0.txt", #Mohawks: A Novel. Volume 1 of 3 by M. E. Braddon
+    "https://www.gutenberg.org/files/41375/41375-0.txt", #Mohawks: A Novel. Volume 2 of 3 by M. E. Braddon
+
     
 ]
