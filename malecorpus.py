@@ -1,6 +1,7 @@
 """
 Extremely inchoate and missing several key sources. 
-"""
+
+Deprecated version: 
 sources = [
     "https://www.gutenberg.org/files/98/98-0.txt", #A Tale of Two Cities
     "https://www.gutenberg.org/files/1400/1400-0.txt", #Great Expectations
@@ -31,3 +32,4 @@ sources = [
     "https://www.gutenberg.org/files/36/36-0.txt", #The War of the Worlds
     "https://www.gutenberg.org/files/599/599-0.txt", #Vanity Fair
 ]
+"""
