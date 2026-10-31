@@ -163,6 +163,16 @@ sources = [
   "https://www.gutenberg.org/cache/epub/51034/pg51034.txt", #The Invention of Printing. by Theodore Low De Vinne
   "https://www.gutenberg.org/cache/epub/35123/pg35123.txt", #The Ladies' Book of Etiquette, and Manual of Politeness by Florence Hartley
   "https://www.gutenberg.org/cache/epub/50750/pg50750.txt", #The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I
+  "https://www.gutenberg.org/cache/epub/46254/pg46254.txt", #Mrs. Hale's Receipts for the Million by Sarah Josepha Buell Hale
+  "https://www.gutenberg.org/cache/epub/75494/pg75494.txt", #The workwoman's guide : containing instructions to the inexperienced in…
+  "https://www.gutenberg.org/cache/epub/9097/pg9097.txt",   #Robert's Rules of Order by Henry M. Robert
+  "https://www.gutenberg.org/cache/epub/42709/pg42709.txt", #Poisons, Their Effects and Detection by Alexander Wynter Blyth
+  "https://www.gutenberg.org/cache/epub/77516/pg77516.txt", #Astronomy by Agnes M. Clerke, A. Fowler, and J. Ellard Gore
+  "https://www.gutenberg.org/cache/epub/40383/pg40383.txt", #Musical Myths and Facts, Volume 1 (of 2) by Carl Engel
+  "https://www.gutenberg.org/cache/epub/40384/pg40384.txt", #Musical Myths and Facts, Volume 2 (of 2) by Carl Engel
+  "https://www.gutenberg.org/cache/epub/45124/pg45124.txt", #Great Facts by Frederick C. Bakewell
+  "https://www.gutenberg.org/cache/epub/23776/pg23776.txt", #The School of Recreation (1684 edition) by R. H.
+  "https://www.gutenberg.org/cache/epub/17727/pg17727.txt", #The School of Recreation (1696 edition) by R. H.
 
 
 ]
