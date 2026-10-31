@@ -102,5 +102,55 @@ sources = [
   "https://www.gutenberg.org/cache/epub/49524/pg49524.txt", #Knowledge for the Time by John Timbs
   "https://www.gutenberg.org/cache/epub/48516/pg48516.txt", #Curiosities of Science, Past and Present by John Timbs
   "https://www.gutenberg.org/cache/epub/61084/pg61084.txt", #The Standard Manual for Baptist Churches by Edward T. Hiscox
+  "https://www.gutenberg.org/cache/epub/12864/pg12864.txt", #A Collection of College Words and Customs by Benjamin Homer Hall
+  "https://www.gutenberg.org/cache/epub/57898/pg57898.txt", #Useful Knowledge: Volume 1. Minerals by William Bingley
+  "https://www.gutenberg.org/cache/epub/57954/pg57954.txt", #Useful Knowledge: Volume 2. Vegetables by William Bingley
+  "https://www.gutenberg.org/cache/epub/58118/pg58118.txt", #Useful Knowledge: Volume 3. Animals by William Bingley
+  "https://www.gutenberg.org/cache/epub/60126/pg60126.txt", #Pens and types : or, Hints and helps for those who write, print, read, teach,…
+  "https://www.gutenberg.org/cache/epub/70210/pg70210.txt", #A select glossary of English words used formerly in senses different from their…
+  "https://www.gutenberg.org/cache/epub/8163/pg8163.txt",   #Handbook of Universal Literature, From the Best and Latest Authorities by Botta
+  "https://www.gutenberg.org/cache/epub/17712/pg17712.txt", #The moon : a full description and map of its principal physical features by Elger
+  "https://www.gutenberg.org/cache/epub/2468/pg2468.txt",   #Repertory of The Comedie Humaine, Part 1 by Cerfberr and Christophe
+  "https://www.gutenberg.org/cache/epub/2469/pg2469.txt",   #Repertory of The Comedie Humaine, Part 2 by Cerfberr and Christophe
+  "https://www.gutenberg.org/cache/epub/47367/pg47367.txt", #British Pomology by Robert Hogg
+  "https://www.gutenberg.org/cache/epub/65002/pg65002.txt", #The Birds of Australia, Vol. 1 of 7 by John Gould
+  "https://www.gutenberg.org/cache/epub/60302/pg60302.txt", #The Birds of Australia, Vol. 2 of 7 by John Gould
+  "https://www.gutenberg.org/cache/epub/60646/pg60646.txt", #The Birds of Australia, Vol. 3 of 7 by John Gould
+  "https://www.gutenberg.org/cache/epub/60833/pg60833.txt", #The Birds of Australia, Vol. 4 of 7 by John Gould
+  "https://www.gutenberg.org/cache/epub/62524/pg62524.txt", #The Birds of Australia, Vol. 5 of 7 by John Gould
+  "https://www.gutenberg.org/cache/epub/52232/pg52232.txt", #A Bible Hand-Book by F. C. Holliday
+  "https://www.gutenberg.org/cache/epub/71466/pg71466.txt", #Queer questions and ready replies : A collection of four hundred questions in…
+  "https://www.gutenberg.org/cache/epub/70907/pg70907.txt", #Catalogue of the dipterous insects collected at Singapore and Malacca by Wallace
+  "https://www.gutenberg.org/cache/epub/59076/pg59076.txt", #The Sporting Dictionary, and Rural Repository, Volume 1 (of 2) by William Taplin
+  "https://www.gutenberg.org/cache/epub/59291/pg59291.txt", #The Sporting Dictionary and Rural Repository, Volume 2 (of 2) by William Taplin
+  "https://www.gutenberg.org/cache/epub/75849/pg75849.txt", #Aggravating ladies : Being a list of works published under the pseudonym of "a…
+  "https://www.gutenberg.org/cache/epub/9916/pg9916.txt",   #Spalding's Baseball Guide and Official League Book for 1895 by Henry Chadwick
+  "https://www.gutenberg.org/cache/epub/65710/pg65710.txt", #A Synopsis of the British Mosses by Charles C. P. Hobkirk
+  "https://www.gutenberg.org/cache/epub/31165/pg31165.txt", #The Church Handy Dictionary by Anonymous
+  "https://www.gutenberg.org/cache/epub/15484/pg15484.txt", #The Care and Feeding of Children by L. Emmett Holt
+  "https://www.gutenberg.org/cache/epub/14551/pg14551.txt", #A catechism of Christian doctrine, no. 1 : for first communion classes
+  "https://www.gutenberg.org/cache/epub/14552/pg14552.txt", #A catechism of Christian doctrine, no. 2 : for confirmation classes by De Concilio et al.
+  "https://www.gutenberg.org/cache/epub/14553/pg14553.txt", #A catechism of Christian doctrine, no. 3 : for two years' course for post-…
+  "https://www.gutenberg.org/cache/epub/16728/pg16728.txt", #A Catechism of Familiar Things; by Anonymous
+  "https://www.gutenberg.org/cache/epub/76379/pg76379.txt", #Catechism of the locomotive by Matthias N. Forney and Georg Kosak
+  "https://www.gutenberg.org/cache/epub/10998/pg10998.txt", #A Catechism of the Steam Engine by C. E. John Bourne
+  "https://www.gutenberg.org/cache/epub/59133/pg59133.txt", #A Body of Divinity, Vol. 1 (of 4) by Thomas Ridgley
+  "https://www.gutenberg.org/cache/epub/62149/pg62149.txt", #A Body of Divinity, Vol. 2 (of 4) by Thomas Ridgley
+  "https://www.gutenberg.org/cache/epub/64185/pg64185.txt", #A Body of Divinity, Vol. 3 (of 4) by Thomas Ridgley
+  "https://www.gutenberg.org/cache/epub/65484/pg65484.txt", #A Body of Divinity, Vol. 4 (of 4) by Thomas Ridgley
+  "https://www.gutenberg.org/cache/epub/69376/pg69376.txt", #Anti-slavery catechism by Lydia Maria Child
+  "https://www.gutenberg.org/cache/epub/39293/pg39293.txt", #The Gentlemen's Book of Etiquette and Manual of Politeness by Cecil B. Hartley
+  "https://www.gutenberg.org/cache/epub/23860/pg23860.txt", #The Young Man's Guide by William A. Alcott
+  "https://www.gutenberg.org/cache/epub/27394/pg27394.txt", #A New Guide for Emigrants to the West by John Mason Peck
+  "https://www.gutenberg.org/cache/epub/14400/pg14400.txt", #Manual of Egyptian Archaeology and Guide to the Study of Antiquities in Egypt
+  "https://www.gutenberg.org/cache/epub/57630/pg57630.txt", #Spons' Household Manual by E. & F. N. Spon
+  "https://www.gutenberg.org/cache/epub/69487/pg69487.txt", #The complete servant by servant Samuel Adams and Sarah Adams
+  "https://www.gutenberg.org/cache/epub/26597/pg26597.txt", #How to Behave: A Pocket Manual of Republican Etiquette, and Guide to Correct…
+  "https://www.gutenberg.org/cache/epub/6598/pg6598.txt",   #American Woman's Home: Or, Principles of Domestic Science; by Beecher and Stowe
+  "https://www.gutenberg.org/cache/epub/21829/pg21829.txt", #A Treatise on Domestic Economy; For the Use of Young Ladies at Home and at…
+  "https://www.gutenberg.org/cache/epub/4337/pg4337.txt",   #Power Through Repose by Annie Payson Call
+  "https://www.gutenberg.org/cache/epub/4385/pg4385.txt",   #As a Matter of Course by Annie Payson Call
+  "https://www.gutenberg.org/cache/epub/41279/pg41279.txt", #The Butterfly Book by W. J. Holland
+  "https://www.gutenberg.org/cache/epub/43614/pg43614.txt", #The Valleys of Tirol: Their traditions and customs and how to visit them by Busk
 
 ]
