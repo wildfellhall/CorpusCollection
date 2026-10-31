@@ -152,5 +152,17 @@ sources = [
   "https://www.gutenberg.org/cache/epub/4385/pg4385.txt",   #As a Matter of Course by Annie Payson Call
   "https://www.gutenberg.org/cache/epub/41279/pg41279.txt", #The Butterfly Book by W. J. Holland
   "https://www.gutenberg.org/cache/epub/43614/pg43614.txt", #The Valleys of Tirol: Their traditions and customs and how to visit them by Busk
+  "https://www.gutenberg.org/cache/epub/19924/pg19924.txt", #Plain Facts for Old and Young by John Harvey Kellogg
+  "https://www.gutenberg.org/cache/epub/17367/pg17367.txt", #First Book in Physiology and Hygiene by John Harvey Kellogg
+  "https://www.gutenberg.org/cache/epub/74519/pg74519.txt", #The uses of water in health and disease : A practical treatise on the bath,…
+  "https://www.gutenberg.org/cache/epub/13923/pg13923.txt", #The Whitehouse Cookbook (1887) by F. L. Gillette and Hugo Ziemann
+  "https://www.gutenberg.org/cache/epub/20889/pg20889.txt", #Facts About Champagne and Other Sparkling Wines by Henry Vizetelly
+  "https://www.gutenberg.org/cache/epub/46953/pg46953.txt", #A History of Champagne, with Notes on the Other Sparkling Wines of France
+  "https://www.gutenberg.org/cache/epub/57168/pg57168.txt", #The Land Beyond the Forest: Facts, Figures, and Fancies from Transylvania by Gerard
+  "https://www.gutenberg.org/cache/epub/41625/pg41625.txt", #Curious Facts in the History of Insects; Including Spiders and Scorpions. by Cowan
+  "https://www.gutenberg.org/cache/epub/51034/pg51034.txt", #The Invention of Printing. by Theodore Low De Vinne
+  "https://www.gutenberg.org/cache/epub/35123/pg35123.txt", #The Ladies' Book of Etiquette, and Manual of Politeness by Florence Hartley
+  "https://www.gutenberg.org/cache/epub/50750/pg50750.txt", #The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I
+
 
 ]
