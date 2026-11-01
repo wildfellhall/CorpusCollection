@@ -202,6 +202,52 @@ sources = [
   "https://www.gutenberg.org/cache/epub/75832/pg75832.txt", #First lessons in the principles of cooking by Lady Barker
   "https://www.gutenberg.org/cache/epub/71943/pg71943.txt", #Popular lessons in astronomy, on a new plan : in which some of the leading…
   "https://www.gutenberg.org/cache/epub/50903/pg50903.txt", #Sleight of Hand: A Practical Manual of Legerdemain for Amateurs & Others by Sachs
+  "https://www.gutenberg.org/cache/epub/43417/pg43417.txt", #A conchological manual by G. B. Sowerby
+  "https://www.gutenberg.org/cache/epub/24583/pg24583.txt", #Langstroth on the Hive and the Honey-Bee: A Bee Keeper's Manual by L. L. Langstroth
+  "https://www.gutenberg.org/cache/epub/14594/pg14594.txt", #Cassell's Vegetarian Cookery: A Manual of Cheap and Wholesome Diet by A. G. Payne
+  "https://www.gutenberg.org/cache/epub/61112/pg61112.txt", #A New Light of Alchymie by Michal Sedziwój and Paracelsus
+  "https://www.gutenberg.org/cache/epub/68043/pg68043.txt", #Fossil plants, Vol. 1 : [A text-book] for students of botany and geology by Seward
+  "https://www.gutenberg.org/cache/epub/24564/pg24564.txt", #A Manual of the Operations of Surgery by Joseph Bell
+  "https://www.gutenberg.org/cache/epub/12327/pg12327.txt", #The Jewish Manual by Lady Judith Cohen Montefiore
+  "https://www.gutenberg.org/cache/epub/62988/pg62988.txt", #The Complete Manual of Catholic Piety by William Gahan
+  "https://www.gutenberg.org/cache/epub/71928/pg71928.txt", #The gunsmith's manual : A complete handbook for the American gunsmith, being…
+  "https://www.gutenberg.org/cache/epub/71463/pg71463.txt", #Hanky Panky : A book of conjuring tricks by Wiljalba Frikell
+  "https://www.gutenberg.org/cache/epub/44509/pg44509.txt", #A Manual of the Historical Development of Art by G. G. Zerffi
+  "https://www.gutenberg.org/cache/epub/77729/pg77729.txt", #The kedge-anchor : or, Young sailors' assistant. by William N. Brady
+  "https://www.gutenberg.org/cache/epub/68388/pg68388.txt", #How to thought-read : A manual of instruction in the strange and mystic in…
+  "https://www.gutenberg.org/cache/epub/51204/pg51204.txt", #Corticelli Home Needlework, 1898: A Manual of Art, Embroidery and Knitting
+  "https://www.gutenberg.org/cache/epub/61065/pg61065.txt", #Modern American Drinks: How to Mix and Serve All Kinds of Cups and Drinks
+  "https://www.gutenberg.org/cache/epub/58452/pg58452.txt", #Fences, Gates and Bridges: A Practical Manual by George A. Martin
+  "https://www.gutenberg.org/cache/epub/50059/pg50059.txt", #How to Behave and How to Amuse: A Handy Manual of Etiquette and Parlor Games
+  "https://www.gutenberg.org/cache/epub/44096/pg44096.txt", #An elementary manual of New Zealand entomology : being an introduction to the…
+  "https://www.gutenberg.org/cache/epub/44551/pg44551.txt", #New Zealand Moths and Butterflies (Macro-Lepidoptera) by G. V. Hudson
+  "https://www.gutenberg.org/cache/epub/31605/pg31605.txt", #The Cooking Manual of Practical Directions for Economical Every-Day Cookery
+  "https://www.gutenberg.org/cache/epub/39747/pg39747.txt", #A Manual of Ancient History by A. H. L. Heeren
+  "https://www.gutenberg.org/cache/epub/68394/pg68394.txt", #The Trouvelot astronomical drawings manual by E. L. Trouvelot
+  "https://www.gutenberg.org/cache/epub/71233/pg71233.txt", #Anthropology : an introduction to the study of man and civilization by Tylor
+  "https://www.gutenberg.org/cache/epub/47836/pg47836.txt", #The Matron's Manual of Midwifery, and the Diseases of Women During Pregnancy…
+  "https://www.gutenberg.org/cache/epub/50100/pg50100.txt", #How to Do Chemical Tricks by active 1894-1902 A. Anderson
+  "https://www.gutenberg.org/cache/epub/64054/pg64054.txt", #Cameo Cutting by John B. Marsh
+  "https://www.gutenberg.org/cache/epub/35329/pg35329.txt", #A Manual of the Antiquity of Man by J. P. MacLean
+  "https://www.gutenberg.org/cache/epub/42982/pg42982.txt", #Photography in the studio and in the field : a practical manual designed as…
+  "https://www.gutenberg.org/cache/epub/57979/pg57979.txt", #Mother, Nurse and Infant by S. P. Sackett
+  "https://www.gutenberg.org/cache/epub/39500/pg39500.txt", #Beauties and Antiquities of Ireland by Thomas O'Neill Russell
+  "https://www.gutenberg.org/cache/epub/30975/pg30975.txt", #Soil Culture by J. H. Walden
+  "https://www.gutenberg.org/cache/epub/57320/pg57320.txt", #Telescopic Work for Starlight Evenings by William F. Denning
+  "https://www.gutenberg.org/cache/epub/31006/pg31006.txt", #The Author's Printing and Publishing Assistant by Frederick Saunders
+  "https://www.gutenberg.org/cache/epub/23476/pg23476.txt", #Churchwardens' Manual by George Henry Sumner
+  "https://www.gutenberg.org/cache/epub/10733/pg10733.txt", #Studies in Civics by J. T. McCleary
+  "https://www.gutenberg.org/cache/epub/57612/pg57612.txt", #Ladies' manual of art; or, profit and pastime. by Anonymous
+  "https://www.gutenberg.org/cache/epub/29248/pg29248.txt", #The Young Lady's Equestrian Manual by Anonymous
+  "https://www.gutenberg.org/cache/epub/60757/pg60757.txt", #Manual of Parliamentary Practice by Luther Stearns Cushing
+  "https://www.gutenberg.org/cache/epub/62609/pg62609.txt", #Locomotive Engine Running and Management by Angus Sinclair
+  "https://www.gutenberg.org/cache/epub/76936/pg76936.txt", #A practical guide for making post-mortem examinations : and for the study of…
+  "https://www.gutenberg.org/cache/epub/63710/pg63710.txt", #A Manual of Photographic Chemistry, Including the Practice of the Collodion…
+  "https://www.gutenberg.org/cache/epub/39044/pg39044.txt", #Advice to the people in general, with regard to their health by S. A. D. Tissot
+  "https://www.gutenberg.org/cache/epub/49077/pg49077.txt", #The Art of Horse-Shoeing: A Manual for Farriers by William Hunting
+  "https://www.gutenberg.org/cache/epub/38831/pg38831.txt", #The Barb and the Bridle by active 1866-1874 Robert Henderson
+  "https://www.gutenberg.org/cache/epub/37142/pg37142.txt", #How to Care for the Insane: A Manual for Nurses by William D. Granger
+  "https://www.gutenberg.org/cache/epub/44604/pg44604.txt", #How to become an engineer : containing full instructions how to proceed in…
   
 
 
