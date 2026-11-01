@@ -173,6 +173,36 @@ sources = [
   "https://www.gutenberg.org/cache/epub/45124/pg45124.txt", #Great Facts by Frederick C. Bakewell
   "https://www.gutenberg.org/cache/epub/23776/pg23776.txt", #The School of Recreation (1684 edition) by R. H.
   "https://www.gutenberg.org/cache/epub/17727/pg17727.txt", #The School of Recreation (1696 edition) by R. H.
+  "https://www.gutenberg.org/cache/epub/1697/pg1697.txt",   #Madam How and Lady Why; Or, First Lessons in Earth Lore for Children by Kingsley
+  "https://www.gutenberg.org/cache/epub/695/pg695.txt",     #Glaucus; Or, The Wonders of the Shore by Charles Kingsley
+  "https://www.gutenberg.org/cache/epub/17437/pg17437.txt", #Health and Education by Charles Kingsley
+  "https://www.gutenberg.org/cache/epub/67257/pg67257.txt", #Lessons in Sabre, Singlestick, Sabre & Bayonet, and Sword Feats by J. M. Waite
+  "https://www.gutenberg.org/cache/epub/54372/pg54372.txt", #The Royal Pastime of Cock-fighting by R. H.
+  "https://www.gutenberg.org/cache/epub/28681/pg28681.txt", #The Cook's Oracle; and Housekeeper's Manual by William Kitchiner
+  "https://www.gutenberg.org/cache/epub/40891/pg40891.txt", #The Art of Invigorating and Prolonging Life by William Kitchiner
+  "https://www.gutenberg.org/cache/epub/70726/pg70726.txt", #The traveller's oracle; or, maxims for locomotion, part 2 (of 2) : Containing…
+  "https://www.gutenberg.org/cache/epub/25520/pg25520.txt", #The Stock-Feeder's Manual by Sir Charles Alexander Cameron
+  "https://www.gutenberg.org/cache/epub/41595/pg41595.txt", #The Funny Side of Physic by Addison Darre Crabtre
+  "https://www.gutenberg.org/cache/epub/34350/pg34350.txt", #A Manual of Elementary Geology by Sir Charles Lyell
+  "https://www.gutenberg.org/cache/epub/3772/pg3772.txt",   #The Student's Elements of Geology by Sir Charles Lyell
+  "https://www.gutenberg.org/cache/epub/60687/pg60687.txt", #The Magician's Own Book, or, the Whole Art of Conjuring by Arnold and Cahil
+  "https://www.gutenberg.org/cache/epub/14444/pg14444.txt", #The Complete English Tradesman (1839 ed.) by Daniel Defoe
+  "https://www.gutenberg.org/cache/epub/10726/pg10726.txt", #Outlines of Lessons in Botany, Part I; from Seed to Leaf by Jane Newell Moore
+  "https://www.gutenberg.org/cache/epub/49155/pg49155.txt", #Marion Harland's Cookery for Beginners by Marion Harland
+  "https://www.gutenberg.org/cache/epub/46144/pg46144.txt", #Six Cups of Coffee by Parloa, Campbell, Corson, Harland, Lincoln, Owen, and Poole
+  "https://www.gutenberg.org/cache/epub/16800/pg16800.txt", #The Secret of a Happy Home (1896) by Marion Harland
+  "https://www.gutenberg.org/cache/epub/49958/pg49958.txt", #The Dinner Year-Book by Marion Harland
+  "https://www.gutenberg.org/cache/epub/49944/pg49944.txt", #Breakfast, Luncheon and Tea by Marion Harland
+  "https://www.gutenberg.org/cache/epub/48804/pg48804.txt", #Common Sense in the Household: A Manual of Practical Housewifery by Marion Harland
+  "https://www.gutenberg.org/cache/epub/11722/pg11722.txt", #First Lessons in Geography by James Monteith
+  "https://www.gutenberg.org/cache/epub/58166/pg58166.txt", #The Art of Tying the Cravat; Demonstrated in sixteen lessons by H. Le Blanc
+  "https://www.gutenberg.org/cache/epub/77859/pg77859.txt", #The starry skies : or, First lessons on the sun, moon and stars by Agnes Giberne
+  "https://www.gutenberg.org/cache/epub/62871/pg62871.txt", #Thoughts on a Pebble, or, A First Lesson in Geology by Gideon Algernon Mantell
+  "https://www.gutenberg.org/cache/epub/53778/pg53778.txt", #First Lessons in Natural Philosophy for Beginners by Joseph C. Martindale
+  "https://www.gutenberg.org/cache/epub/75832/pg75832.txt", #First lessons in the principles of cooking by Lady Barker
+  "https://www.gutenberg.org/cache/epub/71943/pg71943.txt", #Popular lessons in astronomy, on a new plan : in which some of the leading…
+  "https://www.gutenberg.org/cache/epub/50903/pg50903.txt", #Sleight of Hand: A Practical Manual of Legerdemain for Amateurs & Others by Sachs
+  
 
 
 ]
