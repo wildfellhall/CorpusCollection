@@ -34,5 +34,40 @@ sources = [
 ]
 """
 sources = [
+    "https://www.gutenberg.org/cache/epub/98/pg98.txt",     #A Tale of Two Cities by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/1400/pg1400.txt", #Great Expectations by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/46/pg46.txt",     #A Christmas Carol in Prose; Being a Ghost Story of Christmas by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/730/pg730.txt",   #Oliver Twist by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/1023/pg1023.txt", #Bleak House by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/766/pg766.txt",   #David Copperfield by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/786/pg786.txt",   #Hard Times by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/580/pg580.txt",   #The Pickwick Papers by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/700/pg700.txt",   #The Old Curiosity Shop by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/883/pg883.txt",   #Our Mutual Friend by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/967/pg967.txt",   #Nicholas Nickleby by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/963/pg963.txt",   #Little Dorrit by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/821/pg821.txt",   #Dombey and Son by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/917/pg917.txt",   #Barnaby Rudge: A Tale of the Riots of 'Eighty by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/968/pg968.txt",   #Martin Chuzzlewit by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/678/pg678.txt",   #The Cricket on the Hearth: A Fairy Tale of Home by Charles Dickens
+    "https://www.gutenberg.org/cache/epub/74/pg74.txt",     #The Adventures of Tom Sawyer, Complete by Mark Twain
+    "https://www.gutenberg.org/cache/epub/76/pg76.txt",     #Adventures of Huckleberry Finn by Mark Twain
+    "https://www.gutenberg.org/cache/epub/86/pg86.txt",     #A Connecticut Yankee in King Arthur's Court by Mark Twain
+    "https://www.gutenberg.org/cache/epub/1837/pg1837.txt", #The Prince and the Pauper by Mark Twain
+    "https://www.gutenberg.org/cache/epub/102/pg102.txt",   #The Tragedy of Pudd'nhead Wilson by Mark Twain
+    "https://www.gutenberg.org/cache/epub/91/pg91.txt",     #Tom Sawyer Abroad by Mark Twain
+    "https://www.gutenberg.org/cache/epub/2874/pg2874.txt", #Personal Recollections of Joan of Arc — Volume 1 by Mark Twain
+    "https://www.gutenberg.org/cache/epub/93/pg93.txt",     #Tom Sawyer, Detective by Mark Twain
+    "https://www.gutenberg.org/cache/epub/3179/pg3179.txt", #The American Claimant by Mark Twain
+    "https://www.gutenberg.org/cache/epub/2875/pg2875.txt", #Personal Recollections of Joan of Arc — Volume 2 by Mark Twain
+    "https://www.gutenberg.org/cache/epub/3185/pg3185.txt", #Those Extraordinary Twins by Mark Twain
+    "https://www.gutenberg.org/cache/epub/599/pg599.txt",   #Vanity Fair by William Makepeace Thackeray
+    "https://www.gutenberg.org/cache/epub/4558/pg4558.txt", #Barry Lyndon by William Makepeace Thackeray
+    "https://www.gutenberg.org/cache/epub/897/pg897.txt",   #The Rose and the Ring by William Makepeace Thackeray
+    "https://www.gutenberg.org/cache/epub/8123/pg8123.txt", #The Virginians by William Makepeace Thackeray
+    "https://www.gutenberg.org/cache/epub/2511/pg2511.txt", #The History of Henry Esmond, Esq., a Colonel in the Service of Her Majesty…
+    "https://www.gutenberg.org/cache/epub/7265/pg7265.txt", #The History of Pendennis by William Makepeace Thackeray
+    "https://www.gutenberg.org/cache/epub/1969/pg1969.txt", #Catherine: A Story by William Makepeace Thackeray
+    "https://www.gutenberg.org/cache/epub/7467/pg7467.txt", #The Newcomes: Memoirs of a Most Respectable Family by William Makepeace Thackeray
     
 ]
