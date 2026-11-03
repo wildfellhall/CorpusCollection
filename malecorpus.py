@@ -84,6 +84,39 @@ sources = [
     "https://www.gutenberg.org/cache/epub/7085/pg7085.txt",   #Fanshawe by Nathaniel Hawthorne
     "https://www.gutenberg.org/cache/epub/2182/pg2182.txt",   #The Marble Faun; Or, The Romance of Monte Beni - Volume 2 by Nathaniel Hawthorne
     "https://www.gutenberg.org/cache/epub/345/pg345.txt",     #Dracula by Bram Stoker
+    "https://www.gutenberg.org/cache/epub/68966/pg68966.txt", #The Snake's Pass by Bram Stoker
+    "https://www.gutenberg.org/cache/epub/2701/pg2701.txt",   #Moby Dick; Or, The Whale by Herman Melville
+    "https://www.gutenberg.org/cache/epub/21816/pg21816.txt", #The Confidence-Man: His Masquerade by Herman Melville
+    "https://www.gutenberg.org/cache/epub/1900/pg1900.txt",   #Typee: A Romance of the South Seas by Herman Melville
+    "https://www.gutenberg.org/cache/epub/10712/pg10712.txt", #White Jacket; Or, The World on a Man-of-War by Herman Melville
+    "https://www.gutenberg.org/cache/epub/34970/pg34970.txt", #Pierre; or The Ambiguities by Herman Melville
+    "https://www.gutenberg.org/cache/epub/8118/pg8118.txt",   #Redburn. His First Voyage by Herman Melville
+    "https://www.gutenberg.org/cache/epub/4045/pg4045.txt",   #Omoo: Adventures in the South Seas by Herman Melville
+    "https://www.gutenberg.org/cache/epub/15422/pg15422.txt", #Israel Potter: His Fifty Years of Exile by Herman Melville
+    "https://www.gutenberg.org/cache/epub/13720/pg13720.txt", #Mardi, and a voyage thither, Vol. 1 (of 2) by Herman Melville
+    "https://www.gutenberg.org/cache/epub/13721/pg13721.txt", #Mardi, and a voyage thither, Vol. 2 (of 2) by Herman Melville
+    "https://www.gutenberg.org/cache/epub/174/pg174.txt",     #The Picture of Dorian Gray by Oscar Wilde
+    "https://www.gutenberg.org/cache/epub/43/pg43.txt",       #The strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/120/pg120.txt",     #Treasure Island by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/421/pg421.txt",     #Kidnapped by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/589/pg589.txt",     #Catriona by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/848/pg848.txt",     #The Black Arrow: A Tale of the Two Roses by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/864/pg864.txt",     #The Master of Ballantrae: A Winter's Tale by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/322/pg322.txt",     #St. Ives: Being the Adventures of a French Prisoner in England by Stevenson
+    "https://www.gutenberg.org/cache/epub/14133/pg14133.txt", #David Balfour by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/372/pg372.txt",     #Prince Otto, a Romance by Robert Louis Stevenson
+    "https://www.gutenberg.org/cache/epub/6593/pg6593.txt",   #History of Tom Jones, a Foundling by Henry Fielding
+    "https://www.gutenberg.org/cache/epub/9611/pg9611.txt",   #Joseph Andrews, Vol. 1 by Henry Fielding
+    "https://www.gutenberg.org/cache/epub/9609/pg9609.txt",   #Joseph Andrews, Vol. 2 by Henry Fielding
+    "https://www.gutenberg.org/cache/epub/6098/pg6098.txt",   #Amelia — Complete by Henry Fielding
+    "https://www.gutenberg.org/cache/epub/1147/pg1147.txt",   #A Journey from This World to the Next by Henry Fielding
+    "https://www.gutenberg.org/cache/epub/5256/pg5256.txt",   #The History of the Life of the Late Mr. Jonathan Wild the Great by Henry Fielding
+    "https://www.gutenberg.org/cache/epub/4085/pg4085.txt",   #The Adventures of Roderick Random by T. Smollett
+    "https://www.gutenberg.org/cache/epub/2160/pg2160.txt",   #The Expedition of Humphry Clinker by T. Smollett
+    "https://www.gutenberg.org/cache/epub/6761/pg6761.txt",   #The Adventures of Ferdinand Count Fathom — Complete by T. Smollett
+    "https://www.gutenberg.org/cache/epub/4084/pg4084.txt",   #The Adventures of Peregrine Pickle by T. Smollett
+    "https://www.gutenberg.org/cache/epub/829/pg829.txt",     #Gulliver's Travels into Several Remote Nations of the World by Jonathan Swift
+    "https://www.gutenberg.org/cache/epub/10007/pg10007.txt", #Carmilla by Joseph Sheridan Le Fanu
     
     
 ]
