@@ -117,6 +117,18 @@ sources = [
     "https://www.gutenberg.org/cache/epub/4084/pg4084.txt",   #The Adventures of Peregrine Pickle by T. Smollett
     "https://www.gutenberg.org/cache/epub/829/pg829.txt",     #Gulliver's Travels into Several Remote Nations of the World by Jonathan Swift
     "https://www.gutenberg.org/cache/epub/10007/pg10007.txt", #Carmilla by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/14851/pg14851.txt", #Uncle Silas: A Tale of Bartram-Haugh by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/17769/pg17769.txt", #The House by the Church-Yard by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/9502/pg9502.txt",   #The Room in the Dragon Volant by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/40126/pg40126.txt", #The Cock and Anchor by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/9983/pg9983.txt",   #Wylder's Hand by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/38460/pg38460.txt", #Checkmate by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/68569/pg68569.txt", #The Wyvern mystery by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/75028/pg75028.txt", #All in the dark by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/41228/pg41228.txt", #Guy Deverell, v. 1 of 2 by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/41229/pg41229.txt", #Guy Deverell, v. 2 of 2 by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/34662/pg34662.txt", #Willing to Die: A Novel by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/10377/pg10377.txt", #The Evil Guest by Joseph Sheridan Le Fanu
     
     
 ]
