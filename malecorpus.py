@@ -129,6 +129,27 @@ sources = [
     "https://www.gutenberg.org/cache/epub/41229/pg41229.txt", #Guy Deverell, v. 2 of 2 by Joseph Sheridan Le Fanu
     "https://www.gutenberg.org/cache/epub/34662/pg34662.txt", #Willing to Die: A Novel by Joseph Sheridan Le Fanu
     "https://www.gutenberg.org/cache/epub/10377/pg10377.txt", #The Evil Guest by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/35467/pg35467.txt", #The Tenants of Malory, Volume 1 by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/35468/pg35468.txt", #The Tenants of Malory, Volume 2 by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/35469/pg35469.txt", #The Tenants of Malory, Volume 3 by Joseph Sheridan Le Fanu
+    "https://www.gutenberg.org/cache/epub/209/pg209.txt",     #The Turn of the Screw by Henry James
+    "https://www.gutenberg.org/cache/epub/2870/pg2870.txt",   #Washington Square by Henry James
+    "https://www.gutenberg.org/cache/epub/177/pg177.txt",     #The American by Henry James
+    "https://www.gutenberg.org/cache/epub/211/pg211.txt",     #The Aspern Papers by Henry James
+    "https://www.gutenberg.org/cache/epub/179/pg179.txt",     #The Europeans by Henry James
+    "https://www.gutenberg.org/cache/epub/176/pg176.txt",     #Roderick Hudson by Henry James
+    "https://www.gutenberg.org/cache/epub/178/pg178.txt",     #Confidence by Henry James
+    "https://www.gutenberg.org/cache/epub/7118/pg7118.txt",   #What Maisie Knew by Henry James
+    "https://www.gutenberg.org/cache/epub/210/pg210.txt",     #An International Episode by Henry James
+    "https://www.gutenberg.org/cache/epub/19717/pg19717.txt", #The Bostonians, Vol. I (of II) by Henry James
+    "https://www.gutenberg.org/cache/epub/19718/pg19718.txt", #The Bostonians, Vol. II (of II) by Henry James
+    "https://www.gutenberg.org/cache/epub/1144/pg1144.txt",   #In the Cage by Henry James
+    "https://www.gutenberg.org/cache/epub/20085/pg20085.txt", #The Tragic Muse by Henry James
+    "https://www.gutenberg.org/cache/epub/21771/pg21771.txt", #Georgina's Reasons by Henry James
+    "https://www.gutenberg.org/cache/epub/7433/pg7433.txt",   #The Awkward Age by Henry James
+    "https://www.gutenberg.org/cache/epub/33325/pg33325.txt", #The Spoils of Poynton by Henry James
+    "https://www.gutenberg.org/cache/epub/2534/pg2534.txt",  #Eugene Pickering by Henry James
+    
     
     
 ]
