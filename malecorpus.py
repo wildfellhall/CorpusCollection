@@ -148,7 +148,11 @@ sources = [
     "https://www.gutenberg.org/cache/epub/21771/pg21771.txt", #Georgina's Reasons by Henry James
     "https://www.gutenberg.org/cache/epub/7433/pg7433.txt",   #The Awkward Age by Henry James
     "https://www.gutenberg.org/cache/epub/33325/pg33325.txt", #The Spoils of Poynton by Henry James
-    "https://www.gutenberg.org/cache/epub/2534/pg2534.txt",  #Eugene Pickering by Henry James
+    "https://www.gutenberg.org/cache/epub/2534/pg2534.txt",   #Eugene Pickering by Henry James
+    "https://www.gutenberg.org/cache/epub/7529/pg7529.txt",   #The Reverberator by Henry James
+    "https://www.gutenberg.org/cache/epub/64599/pg64599.txt", #The Princess Casamassima: A Novel by Henry James
+    "https://www.gutenberg.org/cache/epub/2720/pg2720.txt",   #The Pension Beaurepas by Henry James
+    
     
     
     
