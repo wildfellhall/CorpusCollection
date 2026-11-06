@@ -248,6 +248,24 @@ sources = [
   "https://www.gutenberg.org/cache/epub/38831/pg38831.txt", #The Barb and the Bridle by active 1866-1874 Robert Henderson
   "https://www.gutenberg.org/cache/epub/37142/pg37142.txt", #How to Care for the Insane: A Manual for Nurses by William D. Granger
   "https://www.gutenberg.org/cache/epub/44604/pg44604.txt", #How to become an engineer : containing full instructions how to proceed in…
+  "https://www.gutenberg.org/cache/epub/74523/pg74523.txt", #A church dictionary by Walter Farquhar Hook
+  "https://www.gutenberg.org/cache/epub/37309/pg37309.txt", #Violins and Violin Makers by Joseph Pearce
+  "https://www.gutenberg.org/cache/epub/74485/pg74485.txt", #A handy dictionary of mythology : For everyday readers by Thomas Preston
+  "https://www.gutenberg.org/cache/epub/44040/pg44040.txt", #Worcestershire in the Nineteenth Century by T. C. Turberville
+  "https://www.gutenberg.org/cache/epub/67768/pg67768.txt", #Hand-book of Sanitary Information for Householders by Roger Sherman Tracy
+  "https://www.gutenberg.org/cache/epub/64140/pg64140.txt", #Soup and Soup Making by Emma P. Ewing
+  "https://www.gutenberg.org/cache/epub/78002/pg78002.txt", #The ladies' hand-book of millinery and dressmaking : With plain instructions…
+  "https://www.gutenberg.org/cache/epub/66524/pg66524.txt", #The Wine Press and the Cellar: A Manual for the Wine-Maker and the Cellar-Man
+  "https://www.gutenberg.org/cache/epub/58756/pg58756.txt", #A manual of pyrotechny : or, A familiar system of recreative fire-works
+  "https://www.gutenberg.org/cache/epub/60550/pg60550.txt", #The Science of Brickmaking by George Frederick Harris
+  "https://www.gutenberg.org/cache/epub/67942/pg67942.txt", #The honey bee: a manual of instruction in apiculture by Frank Benton
+  "https://www.gutenberg.org/cache/epub/68157/pg68157.txt", #Manual of the apiary by Albert John Cook
+  "https://www.gutenberg.org/cache/epub/32838/pg32838.txt", #The Canadian Curler's Manual by James Bicket
+  "https://www.gutenberg.org/cache/epub/29701/pg29701.txt", #The Mother's Manual of Children's Diseases by Charles West
+  "https://www.gutenberg.org/cache/epub/63517/pg63517.txt", #A Practical Manual of the Collodion Process, Giving in Detail a Method For…
+  "https://www.gutenberg.org/cache/epub/71782/pg71782.txt", #Steel : a manual for steel users by William Metcalf
+  "https://www.gutenberg.org/cache/epub/52850/pg52850.txt", #Barbers' Manual (Part 1); Text Book on Taxidermy (Part 2) by T. J. McConnaughay
+  "https://www.gutenberg.org/cache/epub/76043/pg76043.txt", #Every woman her own flower gardener : A handy manual of flower gardening for…
   
 
 
