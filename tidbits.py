@@ -273,7 +273,49 @@ sources = [
   "https://www.gutenberg.org/cache/epub/57273/pg57273.txt", #The Stocking-Knitter's Manual: A Handy Book for the Work-Table by Cupples
   "https://www.gutenberg.org/cache/epub/73434/pg73434.txt", #Prof. E. H. Crane's manual of instructions to undertakers : With full and…
   "https://www.gutenberg.org/cache/epub/78603/pg78603.txt", #The harness makers' illustrated manual by William N. Fitz-Gerald
-  
-
+  ##### LARGER BOOKS/TEXTBOOKS #####
+  "https://www.gutenberg.org/cache/epub/25717/pg25717.txt", #The History of the Decline and Fall of the Roman Empire by Edward Gibbon
+  "https://www.gutenberg.org/cache/epub/2464/pg2464.txt",   #History of Florence and of the Affairs of Italy by Niccolò Machiavelli
+  "https://www.gutenberg.org/cache/epub/25848/pg25848.txt", #William the Conqueror by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/27551/pg27551.txt", #Hannibal by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/26939/pg26939.txt", #Richard I by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/26734/pg26734.txt", #Charles I by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/27802/pg27802.txt", #Darius the Great by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/28433/pg28433.txt", #Richard II by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/25351/pg25351.txt", #Xerxes by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/27240/pg27240.txt", #Pyrrhus by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/28283/pg28283.txt", #Mary Queen of Scots by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/15400/pg15400.txt", #Renaissance in Italy, Volume 1 (of 7) by John Addington Symonds
+  "https://www.gutenberg.org/cache/epub/41924/pg41924.txt", #Renaissance in Italy, Volume 2 (of 7) by John Addington Symonds
+  "https://www.gutenberg.org/cache/epub/11559/pg11559.txt", #Renaissance in Italy, Volume 3 (of 7) by John Addington Symonds
+  "https://www.gutenberg.org/cache/epub/35792/pg35792.txt", #Renaissance in Italy, Volume 4 (of 7) by John Addington Symonds
+  "https://www.gutenberg.org/cache/epub/36448/pg36448.txt", #Renaissance in Italy, Volume 5 (of 7) by John Addington Symonds
+  "https://www.gutenberg.org/cache/epub/16504/pg16504.txt", #Renaissance in Italy, Volumes 6 and 7 (of 7) by John Addington Symonds
+  "https://www.gutenberg.org/cache/epub/30624/pg30624.txt", #Alexander the Great by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/28667/pg28667.txt", #Genghis Khan, Makers of History Series by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/27692/pg27692.txt", #Romulus by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/27312/pg27312.txt", #Nero by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/28561/pg28561.txt", #Richard III by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/40205/pg40205.txt", #History of Cleopatra, Queen of Egypt by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/29107/pg29107.txt", #Queen Elizabeth by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/10992/pg10992.txt", #Cleopatra by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/16545/pg16545.txt", #King Alfred of England by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/30707/pg30707.txt", #Cyrus the Great by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/21889/pg21889.txt", #Peter the Great by Jacob Abbott
+  "https://www.gutenberg.org/cache/epub/1972/pg1972.txt",   #History of the Britons (Historia Brittonum) by active 796 Nennius
+  "https://www.gutenberg.org/cache/epub/61475/pg61475.txt", #Byzantine Constantinople, the walls of the city and adjoining historical sites
+  "https://www.gutenberg.org/cache/epub/45815/pg45815.txt", #The Great Pestilence (A.D. 1348-9), Now Commonly Known as the Black Death
+  "https://www.gutenberg.org/cache/epub/44308/pg44308.txt", #The Art of War in the Middle Ages A.D. 378-1515 by Charles Oman
+  "https://www.gutenberg.org/cache/epub/42686/pg42686.txt", #A History of Epidemics in Britain, Volume 1 (of 2) by Charles Creighton
+  "https://www.gutenberg.org/cache/epub/43671/pg43671.txt", #A History of Epidemics in Britain, Volume 2 (of 2) by Charles Creighton
+  "https://www.gutenberg.org/cache/epub/28556/pg28556.txt", #History of Woman Suffrage, Volume III by Stanton, Anthony, and Gage
+  "https://www.gutenberg.org/cache/epub/22305/pg22305.txt", #The Naval History of the United States. Volume 1 by Willis J. Abbot
+  "https://www.gutenberg.org/cache/epub/26416/pg26416.txt", #The Naval History of the United States. Volume 2 by Willis J. Abbot
+  "https://www.gutenberg.org/cache/epub/15735/pg15735.txt", #History of the Negro Race in America from 1619 to 1880. Vol 1 by Williams
+  "https://www.gutenberg.org/cache/epub/21851/pg21851.txt", #History of the Negro Race in America from 1619 to 1880. Vol. 2 by Williams
+  "https://www.gutenberg.org/cache/epub/21990/pg21990.txt", #The Campaign of 1776 around New York and Brooklyn by Henry Phelps Johnston
+  "https://www.gutenberg.org/cache/epub/3072/pg3072.txt",   #Andersonville: A Story of Rebel Military Prisons by John McElroy
+  "https://www.gutenberg.org/cache/epub/21012/pg21012.txt", #The loyalists of America and their times : from 1620 to 1816, Vol. 1 of 2
+  "https://www.gutenberg.org/cache/epub/24658/pg24658.txt", #The loyalists of America and their times : from 1620 to 1816, Vol. 2 of 2
 
 ]
