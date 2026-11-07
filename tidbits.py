@@ -266,6 +266,13 @@ sources = [
   "https://www.gutenberg.org/cache/epub/71782/pg71782.txt", #Steel : a manual for steel users by William Metcalf
   "https://www.gutenberg.org/cache/epub/52850/pg52850.txt", #Barbers' Manual (Part 1); Text Book on Taxidermy (Part 2) by T. J. McConnaughay
   "https://www.gutenberg.org/cache/epub/76043/pg76043.txt", #Every woman her own flower gardener : A handy manual of flower gardening for…
+  "https://www.gutenberg.org/cache/epub/62200/pg62200.txt", #Sabbath Defence Tactics: a manual by James Bridges
+  "https://www.gutenberg.org/cache/epub/12942/pg12942.txt", #The Highland Fling and How to Teach it by Horatio N. Grant
+  "https://www.gutenberg.org/cache/epub/67477/pg67477.txt", #Bee-keeping for the Many; or, The management of the common and Ligurian honey…
+  "https://www.gutenberg.org/cache/epub/67439/pg67439.txt", #The Bee Keeper's Guide, Third Edition by J. H. Payne
+  "https://www.gutenberg.org/cache/epub/57273/pg57273.txt", #The Stocking-Knitter's Manual: A Handy Book for the Work-Table by Cupples
+  "https://www.gutenberg.org/cache/epub/73434/pg73434.txt", #Prof. E. H. Crane's manual of instructions to undertakers : With full and…
+  "https://www.gutenberg.org/cache/epub/78603/pg78603.txt", #The harness makers' illustrated manual by William N. Fitz-Gerald
   
 
 
