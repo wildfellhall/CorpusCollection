@@ -373,6 +373,31 @@ sources = [
   "https://www.gutenberg.org/cache/epub/37729/pg37729.txt", #A Discourse Presented to the Most Serene Don Cosimo II., Great Duke of Tuscany,…
   "https://www.gutenberg.org/cache/epub/13476/pg13476.txt", #Experiments with Alternate Currents of High Potential and High Frequency by Tesla
   "https://www.gutenberg.org/cache/epub/33810/pg33810.txt", #On the magnet, magnetick bodies also, and on the great magnet the earth by Gilbert et al.
+  "https://www.gutenberg.org/cache/epub/41839/pg41839.txt", #The Boy's Playbook of Science by John Henry Pepper
+  "https://www.gutenberg.org/cache/epub/45515/pg45515.txt", #Experiments and Observations on Electricity Made at Philadelphia in America
+  "https://www.gutenberg.org/cache/epub/54969/pg54969.txt", #Sound by John Tyndall
+  "https://www.gutenberg.org/cache/epub/63803/pg63803.txt", #The Forms of Water in Clouds and Rivers, Ice and Glaciers by John Tyndall
+  "https://www.gutenberg.org/cache/epub/52869/pg52869.txt", #On the Connexion of the Physical Sciences by Mary Somerville
+  "https://www.gutenberg.org/cache/epub/55886/pg55886.txt", #On Molecular and Microscopic Science, Volume 1 (of 2) by Mary Somerville
+  "https://www.gutenberg.org/cache/epub/57566/pg57566.txt", #On Molecular and Microscopic Science, Volume 2 (of 2) by Mary Somerville
+  "https://www.gutenberg.org/cache/epub/71191/pg71191.txt", #The celestial worlds discover'd : or, conjectures concerning the inhabitants,…
+  "https://www.gutenberg.org/cache/epub/30775/pg30775.txt", #Elements of Chemistry, by Antoine Laurent Lavoisier
+  "https://www.gutenberg.org/cache/epub/51326/pg51326.txt", #The Principles of Chemistry, Volume I by Dmitry Ivanovich Mendeleyev
+  "https://www.gutenberg.org/cache/epub/54210/pg54210.txt", #The Principles of Chemistry, Volume II by Dmitry Ivanovich Mendeleyev
+  "https://www.gutenberg.org/cache/epub/74240/pg74240.txt", #The works of the highly experienced and famous chymist, John Rudolph Glauber…
+  "https://www.gutenberg.org/cache/epub/63355/pg63355.txt", #Studies on fermentation : the diseases of beer, their causes, and the means of…
+  "https://www.gutenberg.org/cache/epub/29734/pg29734.txt", #Experiments and Observations on Different Kinds of Air by Joseph Priestley
+  "https://www.gutenberg.org/cache/epub/37682/pg37682.txt", #Heads of Lectures on a Course of Experimental Philosophy: Particularly…
+  "https://www.gutenberg.org/cache/epub/61112/pg61112.txt", #A New Light of Alchymie by Michal Sedziwój and Paracelsus
+  "https://www.gutenberg.org/cache/epub/46998/pg46998.txt", #Elements of the Theory and Practice of Chymistry, 5th ed. by Pierre Joseph Macquer
+  "https://www.gutenberg.org/cache/epub/58393/pg58393.txt", #The Mirror of Alchimy by Roger Bacon
+  "https://www.gutenberg.org/cache/epub/1228/pg1228.txt",   #On the Origin of Species By Means of Natural Selection by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/2300/pg2300.txt",   #The Descent of Man, and Selection in Relation to Sex by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/24923/pg24923.txt", #The Variation of Animals and Plants Under Domestication, Vol. I. by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/1227/pg1227.txt",   #The Expression of the Emotions in Man and Animals by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/22728/pg22728.txt", #The Foundations of the Origin of Species by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/2355/pg2355.txt",   #The Formation of Vegetable Mould Through the Action of Worms by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/28897/pg28897.txt", #The Variation of Animals and Plants Under Domestication, Volume II (of 2) by Darwin
 
   
 
