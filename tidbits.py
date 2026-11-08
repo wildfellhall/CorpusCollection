@@ -363,6 +363,17 @@ sources = [
   "https://www.gutenberg.org/cache/epub/25536/pg25536.txt", #History of the English People, Volume VIII by John Richard Green
   "https://www.gutenberg.org/cache/epub/33504/pg33504.txt", #Opticks : or, A treatise of the reflections, refractions, inflections and…
   "https://www.gutenberg.org/cache/epub/22062/pg22062.txt", #The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara by John Dee
+  "https://www.gutenberg.org/cache/epub/26752/pg26752.txt", #The Way To Geometry by Petrus Ramus
+  "https://www.gutenberg.org/cache/epub/21076/pg21076.txt", #The First Six Books of the Elements of Euclid by Euclid and John Casey
+  "https://www.gutenberg.org/cache/epub/68662/pg68662.txt", #Elements of arithmetic by Augustus De Morgan
+  "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",   #The Notebooks of Leonardo Da Vinci — Complete by da Vinci Leonardo
+  "https://www.gutenberg.org/cache/epub/50572/pg50572.txt", #Goethe's Theory of Colours by Johann Wolfgang von Goethe
+  "https://www.gutenberg.org/cache/epub/14986/pg14986.txt", #Experimental Researches in Electricity, Volume 1 by Michael Faraday
+  "https://www.gutenberg.org/cache/epub/46036/pg46036.txt", #The sidereal messenger of Galileo Galilei : and a part of the preface to…
+  "https://www.gutenberg.org/cache/epub/37729/pg37729.txt", #A Discourse Presented to the Most Serene Don Cosimo II., Great Duke of Tuscany,…
+  "https://www.gutenberg.org/cache/epub/13476/pg13476.txt", #Experiments with Alternate Currents of High Potential and High Frequency by Tesla
+  "https://www.gutenberg.org/cache/epub/33810/pg33810.txt", #On the magnet, magnetick bodies also, and on the great magnet the earth by Gilbert et al.
+
   
 
 ]
