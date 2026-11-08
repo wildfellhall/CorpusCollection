@@ -317,5 +317,36 @@ sources = [
   "https://www.gutenberg.org/cache/epub/3072/pg3072.txt",   #Andersonville: A Story of Rebel Military Prisons by John McElroy
   "https://www.gutenberg.org/cache/epub/21012/pg21012.txt", #The loyalists of America and their times : from 1620 to 1816, Vol. 1 of 2
   "https://www.gutenberg.org/cache/epub/24658/pg24658.txt", #The loyalists of America and their times : from 1620 to 1816, Vol. 2 of 2
+  "https://www.gutenberg.org/cache/epub/25119/pg25119.txt", #The Conquest of Canada, Vol. 1 by George Warburton
+  "https://www.gutenberg.org/cache/epub/34862/pg34862.txt", #The Conquest of Canada, Vol. 2 by George Warburton
+  "https://www.gutenberg.org/cache/epub/27430/pg27430.txt", #The Critical Period of American History by John Fiske
+  "https://www.gutenberg.org/cache/epub/22131/pg22131.txt", #The Story of the Upper Canadian Rebellion, Volume 1 by John Charles Dent
+  "https://www.gutenberg.org/cache/epub/15263/pg15263.txt", #The Underground Railroad by William Still
+  "https://www.gutenberg.org/cache/epub/7142/pg7142.txt",   #The History of the Peloponnesian War by Thucydides
+  "https://www.gutenberg.org/cache/epub/2707/pg2707.txt",   #The History of Herodotus — Volume 1 by Herodotus
+  "https://www.gutenberg.org/cache/epub/2456/pg2456.txt",   #The History of Herodotus — Volume 2 by Herodotus
+  "https://www.gutenberg.org/cache/epub/46976/pg46976.txt", #The Anabasis of Alexander : or, The history of the wars and conquests of…
+  "https://www.gutenberg.org/cache/epub/2850/pg2850.txt",   #The Wars of the Jews; Or, The History of the Destruction of Jerusalem by Josephus
+  "https://www.gutenberg.org/cache/epub/1170/pg1170.txt",   #Anabasis by Xenophon
+  "https://www.gutenberg.org/cache/epub/6400/pg6400.txt",   #The Lives of the Twelve Caesars, Complete by Suetonius
+  "https://www.gutenberg.org/cache/epub/27114/pg27114.txt", #Ancient States and Empires by John Lord
+  "https://www.gutenberg.org/cache/epub/19725/pg19725.txt", #The History of Rome, Books 01 to 08 by Livy
+  "https://www.gutenberg.org/cache/epub/10907/pg10907.txt", #The History of Rome, Books 09 to 26 by Livy
+  "https://www.gutenberg.org/cache/epub/12582/pg12582.txt", #The History of Rome, Books 27 to 36 by Livy
+  "https://www.gutenberg.org/cache/epub/44318/pg44318.txt", #The History of Rome, Books 37 to the End by Livy
+  "https://www.gutenberg.org/cache/epub/1174/pg1174.txt",   #Hellenica by Xenophon
+  "https://www.gutenberg.org/cache/epub/26390/pg26390.txt", #The Two Great Retreats of History by George Grote and comte de Philippe-Paul Ségur
+  "https://www.gutenberg.org/cache/epub/16927/pg16927.txt", #Tacitus: The Histories, Volumes I and II by Cornelius Tacitus
+  "https://www.gutenberg.org/cache/epub/57374/pg57374.txt", #Annals and Antiquities of Rajasthan, v. 1 of 3 by James Tod
+  "https://www.gutenberg.org/cache/epub/57375/pg57375.txt", #Annals and Antiquities of Rajasthan, v. 2 of 3 by James Tod
+  "https://www.gutenberg.org/cache/epub/57376/pg57376.txt", #Annals and Antiquities of Rajasthan, v. 3 of 3 by James Tod
+  "https://www.gutenberg.org/cache/epub/2124/pg2124.txt",   #A Record of Buddhistic Kingdoms by Faxian
+  "https://www.gutenberg.org/cache/epub/49403/pg49403.txt", #The Seri Indians. (1898 N 17 / 1895-1896 (pages 1-344*)) by W J McGee
+  "https://www.gutenberg.org/cache/epub/23224/pg23224.txt", #Historical Introduction to Studies Among the Sedentary Indians of New Mexico;…
+  "https://www.gutenberg.org/cache/epub/20218/pg20218.txt", #History of the Incas by Pedro Sarmiento de Gamboa
+  "https://www.gutenberg.org/cache/epub/37887/pg37887.txt", #Mexico, Aztec, Spanish and Republican, Vol. 1 of 2 by Brantz Mayer
+  "https://www.gutenberg.org/cache/epub/49538/pg49538.txt", #Mexico, Aztec, Spanish and Republican, Vol. 2 of 2 by Brantz Mayer
+  "https://www.gutenberg.org/cache/epub/1301/pg1301.txt",   #The French Revolution: A History by Thomas Carlyle
+  "https://www.gutenberg.org/cache/epub/17450/pg17450.txt", #The Part Borne by the Dutch in the Discovery of Australia 1606-1765 by J. E. Heeres
 
 ]
