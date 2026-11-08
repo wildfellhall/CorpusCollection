@@ -398,6 +398,16 @@ sources = [
   "https://www.gutenberg.org/cache/epub/22728/pg22728.txt", #The Foundations of the Origin of Species by Charles Darwin
   "https://www.gutenberg.org/cache/epub/2355/pg2355.txt",   #The Formation of Vegetable Mould Through the Action of Worms by Charles Darwin
   "https://www.gutenberg.org/cache/epub/28897/pg28897.txt", #The Variation of Animals and Plants Under Domestication, Volume II (of 2) by Darwin
+  "https://www.gutenberg.org/cache/epub/2485/pg2485.txt",   #The Movements and Habits of Climbing Plants by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/3807/pg3807.txt",   #The Different Forms of Flowers on Plants of the Same Species by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/2690/pg2690.txt",   #Coral Reefs by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/5765/pg5765.txt",   #Insectivorous Plants by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/5605/pg5605.txt",   #The Power of Movement in Plants by Charles Darwin and Sir Francis Darwin
+  "https://www.gutenberg.org/cache/epub/3054/pg3054.txt",   #Volcanic Islands by Charles Darwin
+  "https://www.gutenberg.org/cache/epub/23354/pg23354.txt", #Vegetable Teratology by Maxwell T. Masters
+  "https://www.gutenberg.org/cache/epub/15491/pg15491.txt", #Micrographia by Robert Hooke
+  "https://www.gutenberg.org/cache/epub/72894/pg72894.txt", #On the mode of communication of cholera by John Snow
+  "https://www.gutenberg.org/cache/epub/68315/pg68315.txt", #On chloroform and other anæsthetics: their action and administration by John Snow
 
   
 
