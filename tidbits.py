@@ -111,7 +111,6 @@ sources = [
   "https://www.gutenberg.org/cache/epub/8163/pg8163.txt",   #Handbook of Universal Literature, From the Best and Latest Authorities by Botta
   "https://www.gutenberg.org/cache/epub/17712/pg17712.txt", #The moon : a full description and map of its principal physical features by Elger
   "https://www.gutenberg.org/cache/epub/2468/pg2468.txt",   #Repertory of The Comedie Humaine, Part 1 by Cerfberr and Christophe
-  "https://www.gutenberg.org/cache/epub/2469/pg2469.txt",   #Repertory of The Comedie Humaine, Part 2 by Cerfberr and Christophe
   "https://www.gutenberg.org/cache/epub/47367/pg47367.txt", #British Pomology by Robert Hogg
   "https://www.gutenberg.org/cache/epub/65002/pg65002.txt", #The Birds of Australia, Vol. 1 of 7 by John Gould
   "https://www.gutenberg.org/cache/epub/60302/pg60302.txt", #The Birds of Australia, Vol. 2 of 7 by John Gould
