@@ -348,5 +348,21 @@ sources = [
   "https://www.gutenberg.org/cache/epub/49538/pg49538.txt", #Mexico, Aztec, Spanish and Republican, Vol. 2 of 2 by Brantz Mayer
   "https://www.gutenberg.org/cache/epub/1301/pg1301.txt",   #The French Revolution: A History by Thomas Carlyle
   "https://www.gutenberg.org/cache/epub/17450/pg17450.txt", #The Part Borne by the Dutch in the Discovery of Australia 1606-1765 by J. E. Heeres
+  "https://www.gutenberg.org/cache/epub/22762/pg22762.txt", #History of the Rise of the Huguenots, Vol. 1 by Henry Martyn Baird
+  "https://www.gutenberg.org/cache/epub/30708/pg30708.txt", #History of the Rise of the Huguenots, Vol. 2 by Henry Martyn Baird
+  "https://www.gutenberg.org/cache/epub/16764/pg16764.txt", #History of the Wars, Books I and II: The Persian War by Procopius
+  "https://www.gutenberg.org/cache/epub/16765/pg16765.txt", #History of the Wars, Books III and IV: The Vandalic War by Procopius
+  "https://www.gutenberg.org/cache/epub/20298/pg20298.txt", #History of the Wars, Books V and VI: The Gothic War by Procopius
+  "https://www.gutenberg.org/cache/epub/17037/pg17037.txt", #History of the English People, Volume I by John Richard Green
+  "https://www.gutenberg.org/cache/epub/17038/pg17038.txt", #History of the English People, Volume II by John Richard Green
+  "https://www.gutenberg.org/cache/epub/20812/pg20812.txt", #History of the English People, Volume III by John Richard Green
+  "https://www.gutenberg.org/cache/epub/23317/pg23317.txt", #History of the English People, Volume IV by John Richard Green
+  "https://www.gutenberg.org/cache/epub/23642/pg23642.txt", #History of the English People, Volume V by John Richard Green
+  "https://www.gutenberg.org/cache/epub/24254/pg24254.txt", #History of the English People, Volume VI by John Richard Green
+  "https://www.gutenberg.org/cache/epub/25261/pg25261.txt", #History of the English People, Volume VII by John Richard Green
+  "https://www.gutenberg.org/cache/epub/25536/pg25536.txt", #History of the English People, Volume VIII by John Richard Green
+  "https://www.gutenberg.org/cache/epub/33504/pg33504.txt", #Opticks : or, A treatise of the reflections, refractions, inflections and…
+  "https://www.gutenberg.org/cache/epub/22062/pg22062.txt", #The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara by John Dee
+  
 
 ]
