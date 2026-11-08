@@ -332,7 +332,7 @@ sources = [
   "https://www.gutenberg.org/cache/epub/10907/pg10907.txt", #The History of Rome, Books 09 to 26 by Livy
   "https://www.gutenberg.org/cache/epub/12582/pg12582.txt", #The History of Rome, Books 27 to 36 by Livy
   "https://www.gutenberg.org/cache/epub/44318/pg44318.txt", #The History of Rome, Books 37 to the End by Livy
-  "https://www.gutenberg.org/cache/epub/1178/pg1178.txt",   #The Polity of the Athenians and the Lacedaemonians by Xenophon
+  "https://www.gutenberg.org/cache/epub/15784/pg15784.txt", #The Chronology of Ancient Kingdoms Amended by Isaac Newton
   "https://www.gutenberg.org/cache/epub/26390/pg26390.txt", #The Two Great Retreats of History by George Grote and comte de Philippe-Paul Ségur
   "https://www.gutenberg.org/cache/epub/16927/pg16927.txt", #Tacitus: The Histories, Volumes I and II by Cornelius Tacitus
   "https://www.gutenberg.org/cache/epub/57374/pg57374.txt", #Annals and Antiquities of Rajasthan, v. 1 of 3 by James Tod
