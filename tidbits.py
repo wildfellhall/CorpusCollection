@@ -17,7 +17,7 @@ sources = [
   "https://www.gutenberg.org/cache/epub/21682/pg21682.txt", #The field and garden vegetables of America : containing full descriptions of…
   "https://www.gutenberg.org/cache/epub/5402/pg5402.txt",   #1811 Dictionary of the Vulgar Tongue by Francis Grose
   "https://www.gutenberg.org/cache/epub/47018/pg47018.txt", #A Dictionary of Slang, Cant, and Vulgar Words by John Camden Hotten
-  "https://www.gutenberg.org/cache/epub/2108/pg2108.txt",   #The slang dictionary : Etymological, historical and anecdotal by Hotten
+  "https://www.gutenberg.org/cache/epub/42108/pg42108.txt",   #The slang dictionary : Etymological, historical and anecdotal by Hotten
   "https://www.gutenberg.org/cache/epub/45249/pg45249.txt", #The History of Signboards, from the Earliest times to the Present Day by Larwood et al.
   "https://www.gutenberg.org/cache/epub/44028/pg44028.txt", #The Every Day Book of History and Chronology by Joel Munsell
   "https://www.gutenberg.org/cache/epub/70718/pg70718.txt", #The inter ocean curiosity shop for the year 1883 by Various
@@ -298,7 +298,6 @@ sources = [
   "https://www.gutenberg.org/cache/epub/28561/pg28561.txt", #Richard III by Jacob Abbott
   "https://www.gutenberg.org/cache/epub/40205/pg40205.txt", #History of Cleopatra, Queen of Egypt by Jacob Abbott
   "https://www.gutenberg.org/cache/epub/29107/pg29107.txt", #Queen Elizabeth by Jacob Abbott
-  "https://www.gutenberg.org/cache/epub/10992/pg10992.txt", #Cleopatra by Jacob Abbott
   "https://www.gutenberg.org/cache/epub/16545/pg16545.txt", #King Alfred of England by Jacob Abbott
   "https://www.gutenberg.org/cache/epub/30707/pg30707.txt", #Cyrus the Great by Jacob Abbott
   "https://www.gutenberg.org/cache/epub/21889/pg21889.txt", #Peter the Great by Jacob Abbott
@@ -364,7 +363,6 @@ sources = [
   "https://www.gutenberg.org/cache/epub/33504/pg33504.txt", #Opticks : or, A treatise of the reflections, refractions, inflections and…
   "https://www.gutenberg.org/cache/epub/22062/pg22062.txt", #The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara by John Dee
   "https://www.gutenberg.org/cache/epub/26752/pg26752.txt", #The Way To Geometry by Petrus Ramus
-  "https://www.gutenberg.org/cache/epub/21076/pg21076.txt", #The First Six Books of the Elements of Euclid by Euclid and John Casey
   "https://www.gutenberg.org/cache/epub/68662/pg68662.txt", #Elements of arithmetic by Augustus De Morgan
   "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",   #The Notebooks of Leonardo Da Vinci — Complete by da Vinci Leonardo
   "https://www.gutenberg.org/cache/epub/50572/pg50572.txt", #Goethe's Theory of Colours by Johann Wolfgang von Goethe
@@ -388,7 +386,6 @@ sources = [
   "https://www.gutenberg.org/cache/epub/63355/pg63355.txt", #Studies on fermentation : the diseases of beer, their causes, and the means of…
   "https://www.gutenberg.org/cache/epub/29734/pg29734.txt", #Experiments and Observations on Different Kinds of Air by Joseph Priestley
   "https://www.gutenberg.org/cache/epub/37682/pg37682.txt", #Heads of Lectures on a Course of Experimental Philosophy: Particularly…
-  "https://www.gutenberg.org/cache/epub/61112/pg61112.txt", #A New Light of Alchymie by Michal Sedziwój and Paracelsus
   "https://www.gutenberg.org/cache/epub/46998/pg46998.txt", #Elements of the Theory and Practice of Chymistry, 5th ed. by Pierre Joseph Macquer
   "https://www.gutenberg.org/cache/epub/58393/pg58393.txt", #The Mirror of Alchimy by Roger Bacon
   "https://www.gutenberg.org/cache/epub/1228/pg1228.txt",   #On the Origin of Species By Means of Natural Selection by Charles Darwin
@@ -408,6 +405,19 @@ sources = [
   "https://www.gutenberg.org/cache/epub/15491/pg15491.txt", #Micrographia by Robert Hooke
   "https://www.gutenberg.org/cache/epub/72894/pg72894.txt", #On the mode of communication of cholera by John Snow
   "https://www.gutenberg.org/cache/epub/68315/pg68315.txt", #On chloroform and other anæsthetics: their action and administration by John Snow
+  "https://www.gutenberg.org/cache/epub/22153/pg22153.txt", #Pagan and Christian Rome by Rodolfo Amedeo Lanciani
+  "https://www.gutenberg.org/cache/epub/74614/pg74614.txt", #Japan by Walter G. Dickson
+  "https://www.gutenberg.org/cache/epub/53360/pg53360.txt", #The History of the Indian Revolt and of the Expeditions to Persia, China and…
+  "https://www.gutenberg.org/cache/epub/57628/pg57628.txt", #The Principles of Psychology, Volume 1 (of 2) by William James
+  "https://www.gutenberg.org/cache/epub/57634/pg57634.txt", #The Principles of Psychology, Volume 2 (of 2) by William James
+  "https://www.gutenberg.org/cache/epub/33224/pg33224.txt", #Principles of Geology by Sir Charles Lyell
+  "https://www.gutenberg.org/cache/epub/61652/pg61652.txt", #Physical Geography by Mary Somerville
+  "https://www.gutenberg.org/cache/epub/24931/pg24931.txt", #Elements of Agricultural Chemistry by Thomas Anderson
+  "https://www.gutenberg.org/cache/epub/47626/pg47626.txt", #The Ocean World: Being a Description of the Sea and Its Living Inhabitants.
+  "https://www.gutenberg.org/cache/epub/45873/pg45873.txt", #Reptiles and Birds by Louis Figuier
+  "https://www.gutenberg.org/cache/epub/45596/pg45596.txt", #The Insect World by Louis Figuier
+  "https://www.gutenberg.org/cache/epub/42380/pg42380.txt", #Primitive Man by Louis Figuier
+  "https://www.gutenberg.org/cache/epub/22973/pg22973.txt", #The English Husbandman by Gervase Markham
 
   
 
