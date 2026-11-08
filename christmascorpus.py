@@ -1,7 +1,9 @@
 """
 It's time. 
 
-Will initially follow the same time period as all of my other lists (pre-1900). As the Christmas genre is comparatively specific, I may expand the definition to include
+Will initially follow the same time period as all of my other lists (pre-1900).
+I'm expanding the time period for this one up to the 1920s just because I would rather go slightly later in time than broaden the genre too much. 
+As the Christmas genre is comparatively specific, I may expand the definition to include
 wintery domestic works (ie. Little Women) and general winter-centric works. 
 """
 
