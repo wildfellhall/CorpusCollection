@@ -173,4 +173,29 @@ sources = [
   "https://www.gutenberg.org/cache/epub/20453/pg20453.txt", #The Christmas Child by Hesba Stretton
   "https://www.gutenberg.org/cache/epub/17743/pg17743.txt", #Rosemary: A Christmas story by C. N. Williamson and A. M. Williamson
   "https://www.gutenberg.org/cache/epub/40401/pg40401.txt", #Three Little Women's Success: A Story for Girls by Gabrielle E. Jackson
+  "https://www.gutenberg.org/cache/epub/17456/pg17456.txt", #The Romance of a Christmas Card by Kate Douglas Smith Wiggin
+  "https://www.gutenberg.org/cache/epub/51942/pg51942.txt", #The Three Godfathers by Peter B. Kyne
+  "https://www.gutenberg.org/cache/epub/15709/pg15709.txt", #The Christmas Angel by Abbie Farwell Brown
+  "https://www.gutenberg.org/cache/epub/15044/pg15044.txt", #A Reversible Santa Claus by Meredith Nicholson
+  "https://www.gutenberg.org/cache/epub/17937/pg17937.txt", #The Thin Santa Claus: The Chicken Yard That Was a Christmas Stocking by Butler
+  "https://www.gutenberg.org/cache/epub/11084/pg11084.txt", #Sonny, a Christmas Guest by Ruth McEnery Stuart
+  "https://www.gutenberg.org/cache/epub/50274/pg50274.txt", #The Little House by Coningsby Dawson
+  "https://www.gutenberg.org/cache/epub/27612/pg27612.txt", #Christmas Eve at Swamp's End by Norman Duncan
+  "https://www.gutenberg.org/cache/epub/25869/pg25869.txt", #Patty's Success by Carolyn Wells
+  "https://www.gutenberg.org/cache/epub/42923/pg42923.txt", #The Doctor's Christmas Eve by James Lane Allen
+  "https://www.gutenberg.org/cache/epub/9179/pg9179.txt",   #The Bride of the Mistletoe by James Lane Allen
+  "https://www.gutenberg.org/cache/epub/10707/pg10707.txt", #A Christmas Mystery: The Story of Three Wise Men by William John Locke
+  "https://www.gutenberg.org/cache/epub/41604/pg41604.txt", #Miss Santa Claus of the Pullman by Annie F. Johnston
+  "https://www.gutenberg.org/cache/epub/40463/pg40463.txt", #The Little Colonel's Holidays by Annie F. Johnston
+  "https://www.gutenberg.org/cache/epub/26215/pg26215.txt", #The Little Colonel's Christmas Vacation by Annie F. Johnston
+  "https://www.gutenberg.org/cache/epub/17770/pg17770.txt", #Christmas Stories And Legends by Phebe A. Curtiss
+  "https://www.gutenberg.org/cache/epub/14835/pg14835.txt", #The Burglar and the Blizzard: A Christmas Story by Alice Duer Miller
+  "https://www.gutenberg.org/cache/epub/36089/pg36089.txt", #Back at School with the Tucker Twins by Nell Speed
+  "https://www.gutenberg.org/cache/epub/34571/pg34571.txt", #The Pearl Story Book: Stories and Legends of Winter, Christmas, and New Year's…
+  "https://www.gutenberg.org/cache/epub/22696/pg22696.txt", #Colonel Crockett's Co-operative Christmas by Rupert Hughes
+  "https://www.gutenberg.org/cache/epub/23569/pg23569.txt", #Christmas Holidays at Merryvale by Alice Hale Burnett
+  "https://www.gutenberg.org/cache/epub/28308/pg28308.txt", #The Children's Book of Christmas Stories by Asa Don Dickinson and Ada M. Skinner
+  "https://www.gutenberg.org/cache/epub/519/pg519.txt",     #A Kidnapped Santa Claus by L. Frank Baum
+  "https://www.gutenberg.org/cache/epub/27741/pg27741.txt", #Colonel Carter's Christmas and The Romance of an Old-Fashioned Gentleman by Smith
+  "https://www.gutenberg.org/cache/epub/520/pg520.txt",     #The Life and Adventures of Santa Claus by L. Frank Baum
 ]
