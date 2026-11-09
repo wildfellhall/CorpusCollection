@@ -99,4 +99,54 @@ sources = [
   "https://www.gutenberg.org/cache/epub/2731/pg2731.txt",   #The Christmas Books of Mr. M.A. Titmarsh by William Makepeace Thackeray
   "https://www.gutenberg.org/cache/epub/40723/pg40723.txt", #The Battle of Life: A Love Story by Charles Dickens
   "https://www.gutenberg.org/cache/epub/1392/pg1392.txt",   #The Seven Poor Travellers by Charles Dickens
+  "https://www.gutenberg.org/cache/epub/79846/pg79846.txt", #The written leaves : A story of the new year and other holiday stories
+  ##### Less Strict Time Period Adherence (1900-1920) #####
+  "https://www.gutenberg.org/cache/epub/64103/pg64103.txt", #Little Paulina: Christmas in Russia by Mary Cowden Clarke
+  "https://www.gutenberg.org/cache/epub/70097/pg70097.txt", #A new note in the Christmas Carol by Clara Wood Mingins
+  "https://www.gutenberg.org/cache/epub/70521/pg70521.txt", #The hermit's Christmas by David De Forest Burrell
+  "https://www.gutenberg.org/cache/epub/72453/pg72453.txt", #The Squire's young folk : A Christmas story by Eleanora H. Stooke
+  "https://www.gutenberg.org/cache/epub/78374/pg78374.txt", #Little Merry Christmas by Winifred Arnold
+  "https://www.gutenberg.org/cache/epub/70294/pg70294.txt", #The First Church's Christmas barrel by Caroline Abbot Stanley
+  "https://www.gutenberg.org/cache/epub/67255/pg67255.txt", #The Story of Zephyr: A Christmas Story by Jeanie Oliver Davidson Smith
+  "https://www.gutenberg.org/cache/epub/70273/pg70273.txt", #The boy who brought Christmas by Alice Morgan
+  "https://www.gutenberg.org/cache/epub/67034/pg67034.txt", #The Child and the Dream: A Christmas Story by Marion Cook Stow
+  "https://www.gutenberg.org/cache/epub/69685/pg69685.txt", #Just sweethearts: A Christmas love story by Harry Stillwell Edwards
+  "https://www.gutenberg.org/cache/epub/69068/pg69068.txt", #The country Christmas by Frances Margaret Fox
+  "https://www.gutenberg.org/cache/epub/12881/pg12881.txt", #Mrs. Budlong's Christmas Presents by Rupert Hughes
+  "https://www.gutenberg.org/cache/epub/74537/pg74537.txt", #The wonderful Christmas in Pumpkin Delight Lane by Sarah J. Prichard
+  "https://www.gutenberg.org/cache/epub/15826/pg15826.txt", #Uncle Noah's Christmas Inspiration by Leona Dalrymple
+  "https://www.gutenberg.org/cache/epub/17510/pg17510.txt", #When the Yule Log Burns: A Christmas Story by Leona Dalrymple
+  "https://www.gutenberg.org/cache/epub/28110/pg28110.txt", #Jimsy: The Christmas Kid by Leona Dalrymple
+  "https://www.gutenberg.org/cache/epub/45103/pg45103.txt", #In the Heart of the Christmas Pines by Leona Dalrymple
+  "https://www.gutenberg.org/cache/epub/69854/pg69854.txt", #The Christmas Makers' Club by Edith A. Sawyer
+  "https://www.gutenberg.org/cache/epub/15936/pg15936.txt", #The Sad Shepherd: A Christmas Story by Henry Van Dyke
+  "https://www.gutenberg.org/cache/epub/704/pg704.txt",     #The Mansion by Henry Van Dyke
+  "https://www.gutenberg.org/cache/epub/14946/pg14946.txt", #The Blossoming Rod by Mary Stewart Cutting
+  "https://www.gutenberg.org/cache/epub/71547/pg71547.txt", #A journey in search of Christmas by Owen Wister
+  "https://www.gutenberg.org/cache/epub/68590/pg68590.txt", #The Christmas Bishop by Winifred Margaretta Kirkland
+  "https://www.gutenberg.org/cache/epub/71029/pg71029.txt", #Jasper's old shed, and how the light shone in by A. M. Coker
+  "https://www.gutenberg.org/cache/epub/23278/pg23278.txt", #Janice Day at Poketown by Helen Beecher Long
+  "https://www.gutenberg.org/cache/epub/59594/pg59594.txt", #Betty's Virginia Christmas by Molly Elliot Seawell
+  "https://www.gutenberg.org/cache/epub/75689/pg75689.txt", #Beth's wonder-winter : A story by Marion Ames Taggart
+  "https://www.gutenberg.org/cache/epub/30907/pg30907.txt", #Rosemary in Search of a Father by C. N. Williamson and A. M. Williamson
+  "https://www.gutenberg.org/cache/epub/39753/pg39753.txt", #The Misfit Christmas Puddings by Consolation Club
+  "https://www.gutenberg.org/cache/epub/27697/pg27697.txt", #The Mouse and The Moonbeam by Eugene Field
+  "https://www.gutenberg.org/cache/epub/19384/pg19384.txt", #On Christmas Day In The Evening by Grace S. Richmond
+  "https://www.gutenberg.org/cache/epub/53402/pg53402.txt", #Brotherly House by Grace S. Richmond
+  "https://www.gutenberg.org/cache/epub/20187/pg20187.txt", #On Christmas Day in the Morning by Grace S. Richmond
+  "https://www.gutenberg.org/cache/epub/67105/pg67105.txt", #The Animals' Christmas Tree by John P. Peters
+  "https://www.gutenberg.org/cache/epub/64107/pg64107.txt", #Christmas in Sweden; or, A festival of light by Sarah Gertrude Pomeroy
+  "https://www.gutenberg.org/cache/epub/33666/pg33666.txt", #A Captured Santa Claus by Thomas Nelson Page
+  "https://www.gutenberg.org/cache/epub/25896/pg25896.txt", #Tommy Trot's Visit to Santa Claus by Thomas Nelson Page
+  "https://www.gutenberg.org/cache/epub/23511/pg23511.txt", #The Christmas Peace by Thomas Nelson Page
+  "https://www.gutenberg.org/cache/epub/69416/pg69416.txt", #Christmas stories by Georgene Faulkner
+  "https://www.gutenberg.org/cache/epub/5303/pg5303.txt",   #The Little Hunchback Zia by Frances Hodgson Burnett
+  "https://www.gutenberg.org/cache/epub/479/pg479.txt",     #Little Lord Fauntleroy by Frances Hodgson Burnett
+  "https://www.gutenberg.org/cache/epub/460/pg460.txt",     #The Dawn of a To-morrow by Frances Hodgson Burnett
+  "https://www.gutenberg.org/cache/epub/38555/pg38555.txt", #Dorothy Dale in the City by Margaret Penrose
+  "https://www.gutenberg.org/cache/epub/37152/pg37152.txt", #A Maid of Many Moods by Virna Sheard
+  "https://www.gutenberg.org/cache/epub/5949/pg5949.txt",   #Beasley's Christmas Party by Booth Tarkington
+  "https://www.gutenberg.org/cache/epub/14723/pg14723.txt", #How It Happened by Kate Langley Bosher
+  "https://www.gutenberg.org/cache/epub/12971/pg12971.txt", #The Man in Lonely Land by Kate Langley Bosher
+  "https://www.gutenberg.org/cache/epub/44796/pg44796.txt", #The Prodigal Village: A Christmas Tale by Irving Bacheller
 ]
