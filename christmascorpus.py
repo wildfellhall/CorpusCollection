@@ -149,4 +149,28 @@ sources = [
   "https://www.gutenberg.org/cache/epub/14723/pg14723.txt", #How It Happened by Kate Langley Bosher
   "https://www.gutenberg.org/cache/epub/12971/pg12971.txt", #The Man in Lonely Land by Kate Langley Bosher
   "https://www.gutenberg.org/cache/epub/44796/pg44796.txt", #The Prodigal Village: A Christmas Tale by Irving Bacheller
+  "https://www.gutenberg.org/cache/epub/20516/pg20516.txt", #Christmas: A Story by Zona Gale
+  "https://www.gutenberg.org/cache/epub/14526/pg14526.txt", #The Little City of Hope: A Christmas Story by F. Marion Crawford
+  "https://www.gutenberg.org/cache/epub/14606/pg14606.txt", #And Thus He Came: A Christmas Fantasy by Cyrus Townsend Brady
+  "https://www.gutenberg.org/cache/epub/75482/pg75482.txt", #Maisie's merry Christmas by Nina Rhoades
+  "https://www.gutenberg.org/cache/epub/55143/pg55143.txt", #The Story of the Mince Pie by Josephine Scribner Gates
+  "https://www.gutenberg.org/cache/epub/19988/pg19988.txt", #Little Maid Marian by Amy Ella Blanchard
+  "https://www.gutenberg.org/cache/epub/24310/pg24310.txt", #Candle and Crib by K. F. Purdon
+  "https://www.gutenberg.org/cache/epub/64124/pg64124.txt", #Santa Claus' Sweetheart by Imogen Clark
+  "https://www.gutenberg.org/cache/epub/36255/pg36255.txt", #The Corner House Girls' Odd Find by Grace Brooks Hill
+  "https://www.gutenberg.org/cache/epub/16454/pg16454.txt", #The Upas Tree: A Christmas Story for all the Year by Florence L. Barclay
+  "https://www.gutenberg.org/cache/epub/31997/pg31997.txt", #Miss Muffet's Christmas Party by Samuel McChord Crothers
+  "https://www.gutenberg.org/cache/epub/5963/pg5963.txt",   #Mr. Bingle by George Barr McCutcheon
+  "https://www.gutenberg.org/cache/epub/20213/pg20213.txt", #Peace on Earth, Good-will to Dogs by Eleanor Hallowell Abbott
+  "https://www.gutenberg.org/cache/epub/69097/pg69097.txt", #Christmas in Austria; or, Fritzl's friends by Frances Bartlett
+  "https://www.gutenberg.org/cache/epub/69601/pg69601.txt", #The escape of Alice: A Christmas fantasy by Vincent Starrett
+  "https://www.gutenberg.org/cache/epub/35178/pg35178.txt", #Ben Pepper by Margaret Sidney
+  "https://www.gutenberg.org/cache/epub/14573/pg14573.txt", #The Truce of God by Mary Roberts Rinehart
+  "https://www.gutenberg.org/cache/epub/34465/pg34465.txt", #A Little Book of Christmas by John Kendrick Bangs
+  "https://www.gutenberg.org/cache/epub/71759/pg71759.txt", #Granfer, and One Christmas time by Eleanora H. Stooke
+  "https://www.gutenberg.org/cache/epub/42919/pg42919.txt", #Angel Unawares: A Story of Christmas Eve by C. N. Williamson and A. M. Williamson
+  "https://www.gutenberg.org/cache/epub/1902/pg1902.txt",   #The Old Peabody Pew: A Christmas Romance of a Country Church by Wiggin
+  "https://www.gutenberg.org/cache/epub/20453/pg20453.txt", #The Christmas Child by Hesba Stretton
+  "https://www.gutenberg.org/cache/epub/17743/pg17743.txt", #Rosemary: A Christmas story by C. N. Williamson and A. M. Williamson
+  "https://www.gutenberg.org/cache/epub/40401/pg40401.txt", #Three Little Women's Success: A Story for Girls by Gabrielle E. Jackson
 ]
