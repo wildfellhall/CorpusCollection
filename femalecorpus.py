@@ -605,6 +605,40 @@ sources = [
     "https://www.gutenberg.org/files/10880/10880-0.txt", #Teddy's Button by Amy Le Feuvre
     "https://www.gutenberg.org/files/35538/35538-0.txt", #The Squatter and the Don by María Amparo Ruiz de Burton
     "https://www.gutenberg.org/files/79593/79593-0.txt", #Work, wait, win by Ruth Lamb
+    "https://www.gutenberg.org/files/73416/73416-0.txt", #Of no account by Ruth Lamb
+    "https://www.gutenberg.org/files/77531/77531-0.txt", #Midsummer at Hay-Lodge by Ruth Lamb
+    "https://www.gutenberg.org/files/78365/78365-0.txt", #Only a girl-wife by Ruth Lamb
+    "https://www.gutenberg.org/files/78930/78930-0.txt", #Taught by experience by Ruth Lamb
+    "https://www.gutenberg.org/files/54060/54060-0.txt", #Beyond the Gates by Elizabeth Stuart Phelps
+    "https://www.gutenberg.org/files/18646/18646-0.txt", #Gypsy's Cousin Joy by Elizabeth Stuart Phelps
+    "https://www.gutenberg.org/files/48443/48443-0.txt", #A Singular Life by Elizabeth Stuart Phelps
+    "https://www.gutenberg.org/files/18582/18582-0.txt", #Gypsy Breynton by Elizabeth Stuart Phelps
+    "https://www.gutenberg.org/files/30540/30540-0.txt", #The Gates Between by Elizabeth Stuart Phelps
+    "https://www.gutenberg.org/files/54230/54230-0.txt", #The Gates Ajar by Elizabeth Stuart Phelps
+    "https://www.gutenberg.org/files/34256/34256-0.txt", #The Supply at Saint Agatha's by Elizabeth Stuart Phelps
+    "https://www.gutenberg.org/files/2770/2770-0.txt",   #Five Little Peppers and How They Grew by Margaret Sidney
+    "https://www.gutenberg.org/files/5632/5632-0.txt",   #Five Little Peppers Midway by Margaret Sidney
+    "https://www.gutenberg.org/files/71146/71146-0.txt", #Phronsie Pepper : The youngest of the "Five Little Peppers" by Margaret Sidney
+    "https://www.gutenberg.org/files/7498/7498-0.txt",   #Five Little Peppers Grown Up by Margaret Sidney
+    "https://www.gutenberg.org/files/69461/69461-0.txt", #Rondah; or, thirty-three years in a star by Florence Carpenter Dieudonné
+    "https://www.gutenberg.org/files/10433/10433-0.txt", #A Flock of Girls and Boys by Nora Perry
+    "https://www.gutenberg.org/files/41256/41256-0.txt", #Memoirs of Emma Courtney by Mary Hays
+    "https://www.gutenberg.org/files/36433/36433-0.txt", #Chronicles of the Schonberg-Cotta Family by Elizabeth Rundle Charles
+    "https://www.gutenberg.org/files/75740/75740-0.txt", #The Draytons and the Davenants : A story of the Civil Wars by Charles
+    "https://www.gutenberg.org/files/61247/61247-0.txt", #Attila and His Conquerors: A Story of the Days of St. Patrick and St. Leo the…
+    "https://www.gutenberg.org/files/75741/75741-0.txt", #On both sides of the sea : A story of the Commonwealth and the Restoration
+    "https://www.gutenberg.org/files/9387/9387-0.txt",   #Theresa Marchmont, or, the Maid of Honour: A Tale by Mrs. Gore
+    "https://www.gutenberg.org/files/12352/12352-0.txt", #Iola Leroy; Or, Shadows Uplifted by Frances Ellen Watkins Harper
+    "https://www.gutenberg.org/files/11053/11053-0.txt", #Minnie's sacrifice by Frances Ellen Watkins Harper
+    "https://www.gutenberg.org/files/11022/11022-0.txt", #Sowing and reaping : a temperance story by Frances Ellen Watkins Harper
+    "https://www.gutenberg.org/files/11056/11056-0.txt", #Trial and triumph by Frances Ellen Watkins Harper
+    "https://www.gutenberg.org/files/30366/30366-0.txt", #Zoe by Evelyn Whitaker
+    "https://www.gutenberg.org/files/73760/73760-0.txt", #Laddie, and Miss Toosey's mission by Evelyn Whitaker
+    "https://www.gutenberg.org/files/3230/3230-0.txt",   #The Counterpane Fairy by Katharine Pyle
+    "https://www.gutenberg.org/files/36561/36561-0.txt", #The Widow Barnaby. Vol. 1 (of 3) by Frances Milton Trollope
+    "https://www.gutenberg.org/files/36562/36562-0.txt", #The Widow Barnaby. Vol. 2 (of 3) by Frances Milton Trollope
+    "https://www.gutenberg.org/files/36563/36563-0.txt", #The Widow Barnaby. Vol. 3 (of 3) by Frances Milton Trollope
+    "https://www.gutenberg.org/files/36686/36686-0.txt", #The Vicar of Wrexhill by Frances Milton Trollope
 
     
 ]
