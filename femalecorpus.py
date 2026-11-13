@@ -698,6 +698,9 @@ sources = [
     "https://www.gutenberg.org/files/50751/50751-0.txt", #The Teacup Club by Elisa Armstrong Bengough
     "https://www.gutenberg.org/files/7963/7963-0.txt",   #The Eskdale Herd-boy by Mrs. Blackford
     "https://www.gutenberg.org/files/37533/37533-0.txt", #Bungay Castle: A Novel. v. 1/2 by Mrs. Bonhote
+    "https://www.gutenberg.org/files/17191/17191-0.txt", #The Actress in High Life by Sue Petigru Bowen
+    "https://www.gutenberg.org/files/41196/41196-0.txt", #Self-control: A Novel by Mary Brunton
+    "https://www.gutenberg.org/files/38510/38510-0.txt", #Discipline by Mary Brunton
 
     
 ]
