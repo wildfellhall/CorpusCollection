@@ -717,6 +717,26 @@ sources = [
     "https://www.gutenberg.org/files/38085/38085-0.txt", #A Mere Chance: A Novel. Vol. 3 by Ada Cambridge
     "https://www.gutenberg.org/files/50476/50476-0.txt", #The Three Miss Kings: An Australian Story by Ada Cambridge
     "https://www.gutenberg.org/files/73287/73287-0.txt", #In two years' time, Vol. 1 (of 2) by Ada Cambridge
+    "https://www.gutenberg.org/files/18385/18385-0.txt", #Vera Nevill : or, Poor wisdom's chance by Mrs. H. Lovett Cameron
+    "https://www.gutenberg.org/files/22214/22214-0.txt", #Molly Bawn by Duchess
+    "https://www.gutenberg.org/files/35228/35228-0.txt", #Airy Fairy Lilian by Duchess
+    "https://www.gutenberg.org/files/31825/31825-0.txt", #Portia; Or, By Passions Rocked by Duchess
+    "https://www.gutenberg.org/files/35384/35384-0.txt", #Mrs. Geoffrey by Duchess
+    "https://www.gutenberg.org/files/33312/33312-0.txt", #Faith and Unfaith: A Novel by Duchess
+    "https://www.gutenberg.org/files/19175/19175-0.txt", #A Little Rebel: A Novel by Duchess
+    "https://www.gutenberg.org/files/16053/16053-0.txt", #The Haunted Chamber: A Novel by Duchess
+    "https://www.gutenberg.org/files/31492/31492-0.txt", #Rossmoyne by Duchess
+    "https://www.gutenberg.org/files/55398/55398-0.txt", #Phyllis by Duchess
+    "https://www.gutenberg.org/files/21641/21641-0.txt", #April's Lady: A Novel by Duchess
+    "https://www.gutenberg.org/files/16137/16137-0.txt", #The Hoyden by Duchess
+    "https://www.gutenberg.org/files/69494/69494-0.txt", #The professor's experiment: A novel, Vol. 1 (of 3) by Duchess
+    "https://www.gutenberg.org/files/69495/69495-0.txt", #The professor's experiment: A novel, Vol. 2 (of 3) by Duchess
+    "https://www.gutenberg.org/files/69496/69496-0.txt", #The professor's experiment: A novel, Vol. 3 (of 3) by Duchess
+    "https://www.gutenberg.org/files/27839/27839-0.txt", #Only an Irish Girl by Duchess
+    "https://www.gutenberg.org/files/27838/27838-0.txt", #A Bachelor's Dream by Duchess
+    "https://www.gutenberg.org/files/68277/68277-0.txt", #The blood of the vampire by Florence Marryat
+    "https://www.gutenberg.org/files/78503/78503-0.txt", #A fatal silence, vol. 1 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/78031/78031-0.txt", #How they loved him, Vol. 1 (of 3) : A novel by Florence Marryat
+    "https://www.gutenberg.org/files/78111/78111-0.txt", #How they loved him, Vol. 2 (of 3) : A novel by Florence Marryat
 
-    
 ]
