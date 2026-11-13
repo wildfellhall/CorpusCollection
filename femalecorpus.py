@@ -645,6 +645,59 @@ sources = [
     "https://www.gutenberg.org/files/36562/36562-0.txt", #The Widow Barnaby. Vol. 2 (of 3) by Frances Milton Trollope
     "https://www.gutenberg.org/files/36563/36563-0.txt", #The Widow Barnaby. Vol. 3 (of 3) by Frances Milton Trollope
     "https://www.gutenberg.org/files/36686/36686-0.txt", #The Vicar of Wrexhill by Frances Milton Trollope
+    "https://www.gutenberg.org/files/33259/33259-0.txt", #The Day of His Youth by Alice Brown
+    "https://www.gutenberg.org/files/76408/76408-0.txt", #Willy's travels on the railroad : Intended for young children by Mrs. Marcet
+    "https://www.gutenberg.org/files/58002/58002-0.txt", #Bertha's Visit to Her Uncle in England; vol. 1 [of 3] by Mrs. Marcet
+    "https://www.gutenberg.org/files/58003/58003-0.txt", #Bertha's Visit to Her Uncle in England; vol. 2 [of 3] by Mrs. Marcet
+    "https://www.gutenberg.org/files/58004/58004-0.txt", #Bertha's Visit to Her Uncle in England; vol. 3 [of 3] by Mrs. Marcet
+    "https://www.gutenberg.org/files/12361/12361-0.txt", #The Mother's Recompense, Volume 1 by Grace Aguilar
+    "https://www.gutenberg.org/files/12362/12362-0.txt", #The Mother's Recompense, Volume 2 by Grace Aguilar
+    "https://www.gutenberg.org/files/36648/36648-0.txt", #Home Influence: A Tale for Mothers and Daughters by Grace Aguilar
+    "https://www.gutenberg.org/files/18387/18387-0.txt", #The Days of Bruce: A Story from Scottish History. Vol. 1 by Grace Aguilar
+    "https://www.gutenberg.org/files/12725/12725-0.txt", #The Vale of Cedars; Or, The Martyr by Grace Aguilar
+    "https://www.gutenberg.org/files/18418/18418-0.txt", #A Crooked Path: A Novel by Mrs. Alexander
+    "https://www.gutenberg.org/files/47338/47338-0.txt", #Kate Vernon: A Tale. Vol. 1 (of 3) by Mrs. Alexander
+    "https://www.gutenberg.org/files/53356/53356-0.txt", #Kate Vernon: A Tale. Vol. 2 (of 3) by Mrs. Alexander
+    "https://www.gutenberg.org/files/53668/53668-0.txt", #Kate Vernon: A Tale. Vol. 3 (of 3) by Mrs. Alexander
+    "https://www.gutenberg.org/files/49714/49714-0.txt", #At Bay by Mrs. Alexander
+    "https://www.gutenberg.org/files/41740/41740-0.txt", #Ralph Wilton's weird by Mrs. Alexander
+    "https://www.gutenberg.org/files/61804/61804-0.txt", #Sheer Off: A Tale by A. L. O. E.
+    "https://www.gutenberg.org/files/53581/53581-0.txt", #Flora by A. L. O. E.
+    "https://www.gutenberg.org/files/29863/29863-0.txt", #The Rambles of a Rat by A. L. O. E.
+    "https://www.gutenberg.org/files/73660/73660-0.txt", #The robbers' cave : A tale of Italy by A. L. O. E.
+    "https://www.gutenberg.org/files/25516/25516-0.txt", #The Crown of Success by A. L. O. E.
+    "https://www.gutenberg.org/files/35705/35705-0.txt", #The Spanish Cavalier: A Story of Seville by A. L. O. E.
+    "https://www.gutenberg.org/files/74306/74306-0.txt", #Life in the Eagle's Nest : A tale of Afghanistan by A. L. O. E.
+    "https://www.gutenberg.org/files/35533/35533-0.txt", #The Haunted Room: A Tale by A. L. O. E.
+    "https://www.gutenberg.org/files/60486/60486-0.txt", #Idols in the Heart: A Tale by A. L. O. E.
+    "https://www.gutenberg.org/files/71906/71906-0.txt", #The adopted son : or, illustrations of the Lord's prayer by A. L. O. E.
+    "https://www.gutenberg.org/files/73200/73200-0.txt", #The sailor's home : Or, the girdle of truth by A. L. O. E.
+    "https://www.gutenberg.org/files/60149/60149-0.txt", #Pride and His Prisoners by A. L. O. E.
+    "https://www.gutenberg.org/files/59619/59619-0.txt", #Beyond the Black Waters by A. L. O. E.
+    "https://www.gutenberg.org/files/61280/61280-0.txt", #The Young Pilgrim: A Tale Illustrative of "The Pilgrim's Progress" by A. L. O. E.
+    "https://www.gutenberg.org/files/65365/65365-0.txt", #The Story of a Needle by A. L. O. E.
+    "https://www.gutenberg.org/files/68179/68179-0.txt", #The triumph over Midian by A. L. O. E.
+    "https://www.gutenberg.org/files/73511/73511-0.txt", #The Hartley brothers : or, The Knights of Saint John by A. L. O. E.
+    "https://www.gutenberg.org/files/73275/73275-0.txt", #The battle of life : or, What is a Christian by A. L. O. E.
+    "https://www.gutenberg.org/files/72968/72968-0.txt", #Friend and foe : Or, the breastplate of righteousness by A. L. O. E.
+    "https://www.gutenberg.org/files/76281/76281-0.txt", #The wanderer in Africa : A tale illustrative of the thirty-second Psalm
+    "https://www.gutenberg.org/files/73027/73027-0.txt", #Percival's picture gallery by A. L. O. E.
+    "https://www.gutenberg.org/files/77568/77568-0.txt", #The straight road is shortest and surest by A. L. O. E.
+    "https://www.gutenberg.org/files/74662/74662-0.txt", #The mirror and the bracelet : or, Little bullets from Batala by A. L. O. E.
+    "https://www.gutenberg.org/files/77916/77916-0.txt", #Dora's mistake : A story by A. L. O. E.
+    "https://www.gutenberg.org/files/71321/71321-0.txt", #The convict's child : or, the helmet of hope. by A. L. O. E.
+    "https://www.gutenberg.org/files/78512/78512-0.txt", #The golden fleece : or, Who wins the prize? by A. L. O. E.
+    "https://www.gutenberg.org/files/62631/62631-0.txt", #Three Bright Girls: A Story of Chance and Mischance by Annie E. Armstrong
+    "https://www.gutenberg.org/files/56819/56819-0.txt", #The Babes in the Basket; or, Daph and Her Charge by Sarah S. Baker
+    "https://www.gutenberg.org/files/68677/68677-0.txt", #Timid Lucy by Sarah S. Baker
+    "https://www.gutenberg.org/files/64320/64320-0.txt", #The Manchester Man by Mrs. G. Linnaeus Banks
+    "https://www.gutenberg.org/files/38212/38212-0.txt", #The Making of William Edwards; or, The Story of the Bridge of Beauty by Banks
+    "https://www.gutenberg.org/files/18957/18957-0.txt", #Strangers at Lisconnel by Jane Barlow
+    "https://www.gutenberg.org/files/75492/75492-0.txt", #The Dancing Faun by Florence Farr
+    "https://www.gutenberg.org/files/36686/36686-0.txt", #Gladys, the Reaper by Anne Beale
+    "https://www.gutenberg.org/files/50751/50751-0.txt", #The Teacup Club by Elisa Armstrong Bengough
+    "https://www.gutenberg.org/files/7963/7963-0.txt",   #The Eskdale Herd-boy by Mrs. Blackford
+    "https://www.gutenberg.org/files/37533/37533-0.txt", #Bungay Castle: A Novel. v. 1/2 by Mrs. Bonhote
 
     
 ]
