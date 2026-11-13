@@ -709,6 +709,14 @@ sources = [
     "https://www.gutenberg.org/files/56435/56435-0.txt", #The Manoeuvring Mother (vol. 3 of 3) by Lady Charlotte Campbell Bury
     "https://www.gutenberg.org/files/67669/67669-0.txt", #A Marriage in High Life, Volume I by Lady Scott
     "https://www.gutenberg.org/files/67670/67670-0.txt", #A Marriage in High Life, Volume II by Lady Scott
+    "https://www.gutenberg.org/files/18777/18777-0.txt", #Ruth Arnold : or, The country cousin by Lucy Byerley
+    "https://www.gutenberg.org/files/40659/40659-0.txt", #Materfamilias by Ada Cambridge
+    "https://www.gutenberg.org/files/37866/37866-0.txt", #A Humble Enterprise by Ada Cambridge
+    "https://www.gutenberg.org/files/38083/38083-0.txt", #A Mere Chance: A Novel. Vol. 1 by Ada Cambridge
+    "https://www.gutenberg.org/files/38084/38084-0.txt", #A Mere Chance: A Novel. Vol. 2 by Ada Cambridge
+    "https://www.gutenberg.org/files/38085/38085-0.txt", #A Mere Chance: A Novel. Vol. 3 by Ada Cambridge
+    "https://www.gutenberg.org/files/50476/50476-0.txt", #The Three Miss Kings: An Australian Story by Ada Cambridge
+    "https://www.gutenberg.org/files/73287/73287-0.txt", #In two years' time, Vol. 1 (of 2) by Ada Cambridge
 
     
 ]
