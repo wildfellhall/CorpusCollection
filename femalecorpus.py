@@ -701,6 +701,14 @@ sources = [
     "https://www.gutenberg.org/files/17191/17191-0.txt", #The Actress in High Life by Sue Petigru Bowen
     "https://www.gutenberg.org/files/41196/41196-0.txt", #Self-control: A Novel by Mary Brunton
     "https://www.gutenberg.org/files/38510/38510-0.txt", #Discipline by Mary Brunton
+    "https://www.gutenberg.org/files/55744/55744-0.txt", #The Exclusives (vol. 1 of 3) by Lady Charlotte Campbell Bury
+    "https://www.gutenberg.org/files/55745/55745-0.txt", #The Exclusives (vol. 2 of 3) by Lady Charlotte Campbell Bury
+    "https://www.gutenberg.org/files/55746/55746-0.txt", #The Exclusives (vol. 3 of 3) by Lady Charlotte Campbell Bury
+    "https://www.gutenberg.org/files/56433/56433-0.txt", #The Manoeuvring Mother (vol. 1 of 3) by Lady Charlotte Campbell Bury
+    "https://www.gutenberg.org/files/56434/56434-0.txt", #The Manoeuvring Mother (vol. 2 of 3) by Lady Charlotte Campbell Bury
+    "https://www.gutenberg.org/files/56435/56435-0.txt", #The Manoeuvring Mother (vol. 3 of 3) by Lady Charlotte Campbell Bury
+    "https://www.gutenberg.org/files/67669/67669-0.txt", #A Marriage in High Life, Volume I by Lady Scott
+    "https://www.gutenberg.org/files/67670/67670-0.txt", #A Marriage in High Life, Volume II by Lady Scott
 
     
 ]
