@@ -738,5 +738,15 @@ sources = [
     "https://www.gutenberg.org/files/78503/78503-0.txt", #A fatal silence, vol. 1 (of 3) by Florence Marryat
     "https://www.gutenberg.org/files/78031/78031-0.txt", #How they loved him, Vol. 1 (of 3) : A novel by Florence Marryat
     "https://www.gutenberg.org/files/78111/78111-0.txt", #How they loved him, Vol. 2 (of 3) : A novel by Florence Marryat
+    "https://www.gutenberg.org/files/75726/75726-0.txt", #Driven to bay, Vol. 1 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/75727/75727-0.txt", #Driven to bay, Vol. 2 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/75728/75728-0.txt", #Driven to bay, Vol. 3 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/76579/76579-0.txt", #The strange transfiguration of Hannah Stubbs by Florence Marryat
+    "https://www.gutenberg.org/files/69286/69286-0.txt", #The Hampstead mystery: a novel. Volume 1 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/69217/69217-0.txt", #The Hampstead mystery: a novel. Volume 2 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/71035/71035-0.txt", #The Hampstead mystery: a novel. Volume 3 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/75274/75274-0.txt", #A crown of shame, volume 1 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/75275/75275-0.txt", #A crown of shame, volume 2 (of 3) by Florence Marryat
+    "https://www.gutenberg.org/files/75276/75276-0.txt", #A crown of shame, volume 3 (of 3) by Florence Marryat
 
 ]
